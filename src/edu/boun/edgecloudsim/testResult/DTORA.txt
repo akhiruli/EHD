@@ -1,0 +1,2377 @@
+10:
+SimManager is starting. servers..Total applications: 10, Total Tasks: 526, Critical tasks: 124
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 526(468/30/28)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 526(468/30/28)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 78.522117 seconds. (on Edge: 58.489354, on Cloud: 197.767862, on Mobile: 285.592139)
+average processing time: 60.365824 seconds. (on Edge: 48.393082, on Cloud: 36.929372, on Mobile: 285.592139)
+average network delay: 19.177128 seconds. (LAN delay: 10.096272, MAN delay: NaN, WAN delay: 160.838490)
+average server utilization Edge/Cloud/Mobile: 0.000447/0.000005/0.000000
+average cost: 0.0$
+Total Completed Jobs: 10
+Total Service Time: 11034.233954093575
+Average service time of jobs: 1103.4233954093575
+Total Service Time for successful jobs: 11034.233954093575
+Average service time for successful jobs: 1103.4233954093575
+Successful applications: 10
+Total Energy: 2.2212721914779623
+Total Energy Consumption: (Total/CPU/NW) 2.2212721914779623/0.0/2.2212721914779623
+Average Energy Consumption of jobs: 0.22212721914779623
+Total service time for successful tasks(numSucc/ServiceTime/Average):526/50852.843217936985/96.67840915957602
+Scenario finished at 20/05/2025 11:40:23. It took 1 Minute 2 Seconds
+----------------------------------------------------------------------
+
+ 20:
+SimManager is starting. servers..Total applications: 20, Total Tasks: 961, Critical tasks: 227
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 961(857/50/54)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 961(857/50/54)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 106.623807 seconds. (on Edge: 93.064039, on Cloud: 181.365715, on Mobile: 252.616869)
+average processing time: 58.618593 seconds. (on Edge: 47.595233, on Cloud: 38.040858, on Mobile: 252.616869)
+average network delay: 50.863297 seconds. (LAN delay: 45.468806, MAN delay: NaN, WAN delay: 143.324857)
+average server utilization Edge/Cloud/Mobile: 0.000801/0.000008/0.000000
+average cost: 0.0$
+Total Completed Jobs: 20
+Total Service Time: 24837.37888754093
+Average service time of jobs: 1241.8689443770465
+Total Service Time for successful jobs: 24837.37888754093
+Average service time for successful jobs: 1241.8689443770465
+Successful applications: 20
+Total Energy: 3.7892530348949456
+Total Energy Consumption: (Total/CPU/NW) 3.7892530348949456/0.0/3.7892530348949456
+Average Energy Consumption of jobs: 0.18946265174474727
+Total service time for successful tasks(numSucc/ServiceTime/Average):961/148598.48807765552/154.6290198518788
+Scenario finished at 20/05/2025 11:45:39. It took 51 Seconds
+----------------------------------------------------------------------
+
+30:
+SimManager is starting. servers..Total applications: 30, Total Tasks: 1394, Critical tasks: 326
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 1394(1213/95/86)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 1394(1213/95/86)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 119.563641 seconds. (on Edge: 106.333306, on Cloud: 170.611103, on Mobile: 249.783256)
+average processing time: 59.548771 seconds. (on Edge: 47.802265, on Cloud: 37.320827, on Mobile: 249.783256)
+average network delay: 63.960802 seconds. (LAN delay: 58.531041, MAN delay: NaN, WAN delay: 133.290276)
+average server utilization Edge/Cloud/Mobile: 0.001139/0.000014/0.000000
+average cost: 0.0$
+Total Completed Jobs: 30
+Total Service Time: 45543.90549591646
+Average service time of jobs: 1518.1301831972153
+Total Service Time for successful jobs: 45543.90549591646
+Average service time for successful jobs: 1518.1301831972153
+Successful applications: 30
+Total Energy: 5.967044441166505
+Total Energy Consumption: (Total/CPU/NW) 5.967044441166505/0.0/5.967044441166505
+Average Energy Consumption of jobs: 0.19890148137221683
+Total service time for successful tasks(numSucc/ServiceTime/Average):1394/250332.44364750752/179.5785105075377
+Scenario finished at 20/05/2025 11:47:38. It took 53 Seconds
+----------------------------------------------------------------------
+
+40:
+SimManager is starting. servers..Total applications: 40, Total Tasks: 1839, Critical tasks: 421
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 1839(1627/110/102)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 1839(1627/110/102)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 115.269401 seconds. (on Edge: 102.699307, on Cloud: 189.419885, on Mobile: 235.808519)
+average processing time: 58.595529 seconds. (on Edge: 48.828183, on Cloud: 38.738692, on Mobile: 235.808519)
+average network delay: 60.001871 seconds. (LAN delay: 53.871124, MAN delay: NaN, WAN delay: 150.681192)
+average server utilization Edge/Cloud/Mobile: 0.001564/0.000017/0.000000
+average cost: 0.0$
+Total Completed Jobs: 40
+Total Service Time: 55710.676259432534
+Average service time of jobs: 1392.7669064858133
+Total Service Time for successful jobs: 55710.676259432534
+Average service time for successful jobs: 1392.7669064858133
+Successful applications: 40
+Total Energy: 6.6812413807463855
+Total Energy Consumption: (Total/CPU/NW) 6.6812413807463855/0.0/6.6812413807463855
+Average Energy Consumption of jobs: 0.16703103451865964
+Total service time for successful tasks(numSucc/ServiceTime/Average):1839/316203.6784608105/171.94327268124553
+Scenario finished at 20/05/2025 11:50:53. It took 56 Seconds
+----------------------------------------------------------------------
+
+50:
+SimManager is starting. servers..Total applications: 50, Total Tasks: 2394, Critical tasks: 546
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 2394(2079/159/156)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 2394(2079/159/156)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 121.059343 seconds. (on Edge: 105.868834, on Cloud: 183.727793, on Mobile: 259.628475)
+average processing time: 62.958943 seconds. (on Edge: 50.095980, on Cloud: 38.189459, on Mobile: 259.628475)
+average network delay: 62.150294 seconds. (LAN delay: 55.772854, MAN delay: NaN, WAN delay: 145.538334)
+average server utilization Edge/Cloud/Mobile: 0.002052/0.000025/0.000000
+average cost: 0.0$
+Total Completed Jobs: 50
+Total Service Time: 73479.88444814215
+Average service time of jobs: 1469.597688962843
+Total Service Time for successful jobs: 73479.88444814215
+Average service time for successful jobs: 1469.597688962843
+Successful applications: 50
+Total Energy: 11.250567244775995
+Total Energy Consumption: (Total/CPU/NW) 11.250567244775995/0.0/11.250567244775995
+Average Energy Consumption of jobs: 0.2250113448955199
+Total service time for successful tasks(numSucc/ServiceTime/Average):2394/428908.42608221975/179.15974355982445
+Scenario finished at 20/05/2025 11:52:58. It took 48 Seconds
+----------------------------------------------------------------------
+
+60:
+SSimManager is starting. servers..Total applications: 60, Total Tasks: 2770, Critical tasks: 637
+ SimManager is starting...Done.
+ .........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+ # of tasks (Edge/Cloud/Mobile): 2770(2425/175/170)
+ # of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+ # of completed tasks (Edge/Cloud/Mobile): 2770(2425/175/170)
+ # of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+ # of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+ # of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+ # of failed tasks due to latency: 0
+ # of failed tasks due to Energy constraint: 0
+ percentage of failed tasks: 0.000000%
+ # of critical task failed: 0
+ average service time: 114.784799 seconds. (on Edge: 101.560415, on Cloud: 163.923866, on Mobile: 252.842402)
+ average processing time: 64.557328 seconds. (on Edge: 53.286022, on Cloud: 37.839933, on Mobile: 252.842402)
+ average network delay: 53.511574 seconds. (LAN delay: 48.274394, MAN delay: NaN, WAN delay: 126.083933)
+ average server utilization Edge/Cloud/Mobile: 0.002543/0.000027/0.000000
+ average cost: 0.0$
+ Total Completed Jobs: 60
+ Total Service Time: 84605.57413392214
+ Average service time of jobs: 1410.0929022320356
+ Total Service Time for successful jobs: 84605.57413392214
+ Average service time for successful jobs: 1410.0929022320356
+ Successful applications: 60
+ Total Energy: 11.939780080463162
+ Total Energy Consumption: (Total/CPU/NW) 11.939780080463162/0.0/11.939780080463162
+ Average Energy Consumption of jobs: 0.19899633467438604
+ Total service time for successful tasks(numSucc/ServiceTime/Average):2770/457083.98560935806/165.01226917305345
+ Scenario finished at 20/05/2025 11:55:01. It took 51 Seconds
+ ----------------------------------------------------------------------
+
+70:
+SimManager is starting. servers..Total applications: 70, Total Tasks: 3196, Critical tasks: 745
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 3196(2816/194/186)
+# of failed tasks (Edge/Cloud/Mobile): 6(5/1/0)
+# of completed tasks (Edge/Cloud/Mobile): 3190(2811/193/186)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 6
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.187735%
+# of critical task failed: 1
+average service time: 130.975829 seconds. (on Edge: 120.200435, on Cloud: 180.870695, on Mobile: 242.050681)
+average processing time: 71.791719 seconds. (on Edge: 62.780838, on Cloud: 38.949338, on Mobile: 242.050681)
+average network delay: 62.848638 seconds. (LAN delay: 57.419597, MAN delay: NaN, WAN delay: 141.921356)
+average server utilization Edge/Cloud/Mobile: 0.003499/0.000031/0.000000
+average cost: 0.0$
+Total Completed Jobs: 70
+Total Service Time: 107198.4838979359
+Average service time of jobs: 1531.4069128276558
+Total Service Time for successful jobs: 104623.04694810021
+Average service time for successful jobs: 1576.4482926167045
+Successful applications: 68
+Total Energy: 12.505951828394045
+Total Energy Consumption: (Total/CPU/NW) 12.505951828394045/0.0/12.505951828394045
+Average Energy Consumption of jobs: 0.1786564546913435
+Total service time for successful tasks(numSucc/ServiceTime/Average):3190/606610.2041673969/190.15993861046925
+Scenario finished at 20/05/2025 11:57:43. It took 58 Seconds
+----------------------------------------------------------------------
+
+80:
+SimManager is starting. servers..Total applications: 80, Total Tasks: 3561, Critical tasks: 831
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 3561(3111/217/233)
+# of failed tasks (Edge/Cloud/Mobile): 22(17/1/4)
+# of completed tasks (Edge/Cloud/Mobile): 3539(3094/216/229)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 21
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.617804%
+# of critical task failed: 3
+average service time: 131.950142 seconds. (on Edge: 119.176415, on Cloud: 189.639667, on Mobile: 250.120345)
+average processing time: 76.603125 seconds. (on Edge: 66.464453, on Cloud: 37.869821, on Mobile: 250.120345)
+average network delay: 59.176162 seconds. (LAN delay: 52.711962, MAN delay: NaN, WAN delay: 151.769846)
+average server utilization Edge/Cloud/Mobile: 0.004085/0.000033/0.000000
+average cost: 0.0$
+Total Completed Jobs: 80
+Total Service Time: 121012.09817199138
+Average service time of jobs: 1512.6512271498923
+Total Service Time for successful jobs: 118461.13882813706
+Average service time for successful jobs: 1551.4371560511715
+Successful applications: 78
+Total Energy: 16.20527761845555
+Total Energy Consumption: (Total/CPU/NW) 16.20527761845555/0.0/16.20527761845555
+Average Energy Consumption of jobs: 0.2025659702306944
+Total service time for successful tasks(numSucc/ServiceTime/Average):3539/662844.6491188528/187.29715996576795
+Scenario finished at 20/05/2025 11:59:16. It took 1 Minute 0 Seconds
+----------------------------------------------------------------------
+
+90:
+SimManager is starting. servers..Total applications: 90, Total Tasks: 4071, Critical tasks: 964
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4071(3563/253/255)
+# of failed tasks (Edge/Cloud/Mobile): 24(19/4/1)
+# of completed tasks (Edge/Cloud/Mobile): 4047(3544/249/254)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 24
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.589536%
+# of critical task failed: 2
+average service time: 140.659986 seconds. (on Edge: 129.207709, on Cloud: 193.747572, on Mobile: 248.408265)
+average processing time: 78.671845 seconds. (on Edge: 69.405928, on Cloud: 37.408226, on Mobile: 248.408265)
+average network delay: 66.139206 seconds. (LAN delay: 59.801781, MAN delay: NaN, WAN delay: 156.339346)
+average server utilization Edge/Cloud/Mobile: 0.004902/0.000038/0.000000
+average cost: 0.0$
+Total Completed Jobs: 90
+Total Service Time: 144650.95396961164
+Average service time of jobs: 1607.2328218845737
+Total Service Time for successful jobs: 135159.20925241895
+Average service time for successful jobs: 1722.0351663049005
+Successful applications: 84
+Total Energy: 17.606984864647444
+Total Energy Consumption: (Total/CPU/NW) 17.606984864647444/0.0/17.606984864647444
+Average Energy Consumption of jobs: 0.19563316516274937
+Total service time for successful tasks(numSucc/ServiceTime/Average):4047/820116.9720999094/202.64812752654052
+Scenario finished at 20/05/2025 11:38:29. It took 56 Seconds
+----------------------------------------------------------------------
+
+100:
+# of tasks (Edge/Cloud/Mobile): 4468(3914/252/302)
+# of failed tasks (Edge/Cloud/Mobile): 39(28/4/7)
+# of completed tasks (Edge/Cloud/Mobile): 4429(3886/248/295)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 38
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.872874%
+# of critical task failed: 7
+average service time: 146.276345 seconds. (on Edge: 135.971914, on Cloud: 198.012044, on Mobile: 238.522331)
+average processing time: 84.228730 seconds. (on Edge: 75.387214, on Cloud: 39.234850, on Mobile: 238.522331)
+average network delay: 66.475299 seconds. (LAN delay: 60.584700, MAN delay: NaN, WAN delay: 158.777194)
+average server utilization Edge/Cloud/Mobile: 0.005856/0.000040/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 163930.63242791075
+Average service time of jobs: 1639.3063242791075
+Total Service Time for successful jobs: 158263.22639191258
+Average service time for successful jobs: 1707.6107544574036
+Successful applications: 96
+Total Energy: 20.069449608919538
+Total Energy Consumption: (Total/CPU/NW) 20.069449608919538/0.0/20.069449608919538
+Average Energy Consumption of jobs: 0.20069449608919537
+Total service time for successful tasks(numSucc/ServiceTime/Average):4429/922666.8203337225/208.32396033725954
+Scenario finished at 20/05/2025 09:57:52. It took 1 Minute 30 Seconds
+----------------------------------------------------------------------
+
+
+
+10:
+SimManager is starting. servers..Total applications: 10, Total Tasks: 526, Critical tasks: 124
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 526(467/26/33)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 526(467/26/33)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 77.580000 seconds. (on Edge: 59.473163, on Cloud: 160.498017, on Mobile: 268.489830)
+average processing time: 62.137428 seconds. (on Edge: 48.988531, on Cloud: 36.403020, on Mobile: 268.489830)
+average network delay: 16.476253 seconds. (LAN delay: 10.484632, MAN delay: NaN, WAN delay: 124.094997)
+average server utilization Edge/Cloud/Mobile: 0.000449/0.000004/0.000000
+average cost: 0.0$
+Total Completed Jobs: 10
+Total Service Time: 11104.79422903714
+Average service time of jobs: 1110.4794229037138
+Total Service Time for successful jobs: 11104.79422903714
+Average service time for successful jobs: 1110.4794229037138
+Successful applications: 10
+Total Energy: 3.803386476262219
+Total Energy Consumption: (Total/CPU/NW) 3.803386476262219/0.0/3.803386476262219
+Average Energy Consumption of jobs: 0.38033864762622194
+Total service time for successful tasks(numSucc/ServiceTime/Average):526/48929.87266882642/93.02257161373845
+Scenario finished at 20/05/2025 18:26:09. It took 1 Minute 1 Seconds
+----------------------------------------------------------------------
+
+20:
+SimManager is starting. servers..Total applications: 20, Total Tasks: 961, Critical tasks: 227
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 961(852/56/53)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 961(852/56/53)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 106.523738 seconds. (on Edge: 93.777816, on Cloud: 174.594674, on Mobile: 239.496438)
+average processing time: 58.356223 seconds. (on Edge: 48.488736, on Cloud: 37.046724, on Mobile: 239.496438)
+average network delay: 50.979055 seconds. (LAN delay: 45.289081, MAN delay: NaN, WAN delay: 137.547950)
+average server utilization Edge/Cloud/Mobile: 0.000814/0.000009/0.000000
+average cost: 0.0$
+Total Completed Jobs: 20
+Total Service Time: 25297.628857245563
+Average service time of jobs: 1264.8814428622782
+Total Service Time for successful jobs: 25297.628857245563
+Average service time for successful jobs: 1264.8814428622782
+Successful applications: 20
+Total Energy: 6.107691150399545
+Total Energy Consumption: (Total/CPU/NW) 6.107691150399545/0.0/6.107691150399545
+Average Energy Consumption of jobs: 0.3053845575199773
+Total service time for successful tasks(numSucc/ServiceTime/Average):961/148658.2942135685/154.69125308383818
+Scenario finished at 20/05/2025 18:32:15. It took 1 Minute 1 Seconds
+----------------------------------------------------------------------
+
+30:
+SimManager is starting. servers..Total applications: 30, Total Tasks: 1394, Critical tasks: 326
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 1394(1259/79/56)
+# of failed tasks (Edge/Cloud/Mobile): 2(0/2/0)
+# of completed tasks (Edge/Cloud/Mobile): 1392(1259/77/56)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 2
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.143472%
+# of critical task failed: 0
+average service time: 113.184414 seconds. (on Edge: 103.816532, on Cloud: 189.422422, on Mobile: 218.967219)
+average processing time: 54.126833 seconds. (on Edge: 47.723228, on Cloud: 38.946014, on Mobile: 218.967219)
+average network delay: 61.533049 seconds. (LAN delay: 56.093305, MAN delay: NaN, WAN delay: 150.476408)
+average server utilization Edge/Cloud/Mobile: 0.001180/0.000012/0.000000
+average cost: 0.0$
+Total Completed Jobs: 30
+Total Service Time: 41719.89545113935
+Average service time of jobs: 1390.663181704645
+Total Service Time for successful jobs: 40585.51548682004
+Average service time for successful jobs: 1438.6170845220468
+Successful applications: 29
+Total Energy: 7.295707605325163
+Total Energy Consumption: (Total/CPU/NW) 7.295707605325163/0.0/7.295707605325163
+Average Energy Consumption of jobs: 0.24319025351083876
+Total service time for successful tasks(numSucc/ServiceTime/Average):1392/239760.85875725103/172.24199623365735
+Scenario finished at 20/05/2025 18:34:22. It took 59 Seconds
+----------------------------------------------------------------------
+
+40:
+SimManager is starting. servers..Total applications: 40, Total Tasks: 1839, Critical tasks: 421
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 1839(1619/118/102)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 1839(1619/118/102)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 115.104306 seconds. (on Edge: 101.826502, on Cloud: 169.192520, on Mobile: 263.284251)
+average processing time: 59.905057 seconds. (on Edge: 48.586806, on Cloud: 39.392939, on Mobile: 263.284251)
+average network delay: 58.440655 seconds. (LAN delay: 53.239696, MAN delay: NaN, WAN delay: 129.799580)
+average server utilization Edge/Cloud/Mobile: 0.001545/0.000019/0.000000
+average cost: 0.0$
+Total Completed Jobs: 40
+Total Service Time: 54400.32205310975
+Average service time of jobs: 1360.0080513277437
+Total Service Time for successful jobs: 54400.32205310975
+Average service time for successful jobs: 1360.0080513277437
+Successful applications: 40
+Total Energy: 12.347237494740577
+Total Energy Consumption: (Total/CPU/NW) 12.347237494740577/0.0/12.347237494740577
+Average Energy Consumption of jobs: 0.30868093736851443
+Total service time for successful tasks(numSucc/ServiceTime/Average):1839/313188.2360143578/170.30355411329953
+Scenario finished at 20/05/2025 20:50:29. It took 53 Seconds
+----------------------------------------------------------------------
+
+50:
+SimManager is starting. servers..Total applications: 50, Total Tasks: 2394, Critical tasks: 546
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 2394(2119/133/142)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 2394(2119/133/142)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 118.376661 seconds. (on Edge: 107.320082, on Cloud: 155.705120, on Mobile: 248.406285)
+average processing time: 63.756984 seconds. (on Edge: 52.985217, on Cloud: 38.231971, on Mobile: 248.406285)
+average network delay: 58.063724 seconds. (LAN delay: 54.334865, MAN delay: NaN, WAN delay: 117.473149)
+average server utilization Edge/Cloud/Mobile: 0.002215/0.000020/0.000000
+average cost: 0.0$
+Total Completed Jobs: 50
+Total Service Time: 70365.99694156641
+Average service time of jobs: 1407.3199388313283
+Total Service Time for successful jobs: 70365.99694156641
+Average service time for successful jobs: 1407.3199388313283
+Successful applications: 50
+Total Energy: 16.18538612319228
+Total Energy Consumption: (Total/CPU/NW) 16.18538612319228/0.0/16.18538612319228
+Average Energy Consumption of jobs: 0.3237077224638456
+Total service time for successful tasks(numSucc/ServiceTime/Average):2394/414153.2346698825/172.99633862568191
+Scenario finished at 20/05/2025 20:52:54. It took 51 Seconds
+----------------------------------------------------------------------
+
+60:
+SimManager is starting. servers..Total applications: 60, Total Tasks: 2770, Critical tasks: 637
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 2770(2442/158/170)
+# of failed tasks (Edge/Cloud/Mobile): 3(0/3/0)
+# of completed tasks (Edge/Cloud/Mobile): 2767(2442/155/170)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 3
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.108303%
+# of critical task failed: 1
+average service time: 119.540566 seconds. (on Edge: 105.678963, on Cloud: 188.899663, on Mobile: 255.419242)
+average processing time: 67.166085 seconds. (on Edge: 55.892899, on Cloud: 38.302110, on Mobile: 255.419242)
+average network delay: 55.802923 seconds. (LAN delay: 49.786064, MAN delay: NaN, WAN delay: 150.597553)
+average server utilization Edge/Cloud/Mobile: 0.002696/0.000025/0.000000
+average cost: 0.0$
+Total Completed Jobs: 60
+Total Service Time: 85976.10542264559
+Average service time of jobs: 1432.9350903774264
+Total Service Time for successful jobs: 83120.67631270239
+Average service time for successful jobs: 1482.3466452180273
+Successful applications: 58
+Total Energy: 19.23339651255905
+Total Energy Consumption: (Total/CPU/NW) 19.23339651255905/0.0/19.23339651255905
+Average Energy Consumption of jobs: 0.32055660854265083
+Total service time for successful tasks(numSucc/ServiceTime/Average):2767/475688.9374683794/171.91504787436912
+Scenario finished at 20/05/2025 20:54:43. It took 56 Seconds
+----------------------------------------------------------------------
+
+70:
+SimManager is starting. servers..Total applications: 70, Total Tasks: 3196, Critical tasks: 745
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 3196(2782/194/220)
+# of failed tasks (Edge/Cloud/Mobile): 4(3/0/1)
+# of completed tasks (Edge/Cloud/Mobile): 3192(2779/194/219)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 4
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.125156%
+# of critical task failed: 2
+average service time: 127.517649 seconds. (on Edge: 116.081388, on Cloud: 166.104037, on Mobile: 238.456506)
+average processing time: 73.696133 seconds. (on Edge: 63.158651, on Cloud: 38.650463, on Mobile: 238.456506)
+average network delay: 57.786169 seconds. (LAN delay: 52.922737, MAN delay: NaN, WAN delay: 127.453574)
+average server utilization Edge/Cloud/Mobile: 0.003473/0.000030/0.000000
+average cost: 0.0$
+Total Completed Jobs: 70
+Total Service Time: 106633.54917752012
+Average service time of jobs: 1523.336416821716
+Total Service Time for successful jobs: 105609.85644218074
+Average service time for successful jobs: 1545.4137561959437
+Successful applications: 69
+Total Energy: 22.903611954313305
+Total Energy Consumption: (Total/CPU/NW) 22.903611954313305/0.0/22.903611954313305
+Average Energy Consumption of jobs: 0.3271944564901901
+Total service time for successful tasks(numSucc/ServiceTime/Average):3192/578834.6161943884/181.33916547443243
+Scenario finished at 20/05/2025 20:56:19. It took 49 Seconds
+----------------------------------------------------------------------
+
+80:
+SimManager is starting. servers..Total applications: 80, Total Tasks: 3561, Critical tasks: 831
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 3561(3154/218/189)
+# of failed tasks (Edge/Cloud/Mobile): 25(20/4/1)
+# of completed tasks (Edge/Cloud/Mobile): 3536(3134/214/188)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 25
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.702050%
+# of critical task failed: 3
+average service time: 127.682222 seconds. (on Edge: 117.470796, on Cloud: 186.054778, on Mobile: 231.463512)
+average processing time: 66.865958 seconds. (on Edge: 58.883941, on Cloud: 39.161764, on Mobile: 231.463512)
+average network delay: 64.231275 seconds. (LAN delay: 58.586855, MAN delay: NaN, WAN delay: 146.893014)
+average server utilization Edge/Cloud/Mobile: 0.003655/0.000035/0.000000
+average cost: 0.0$
+Total Completed Jobs: 80
+Total Service Time: 117346.24324491674
+Average service time of jobs: 1466.8280405614591
+Total Service Time for successful jobs: 109928.28235695075
+Average service time for successful jobs: 1564.6165765988899
+Successful applications: 75
+Total Energy: 21.53530036350279
+Total Energy Consumption: (Total/CPU/NW) 21.53530036350279/0.0/21.53530036350279
+Average Energy Consumption of jobs: 0.2691912545437849
+Total service time for successful tasks(numSucc/ServiceTime/Average):3536/666530.6464818853/188.4984859960083
+Scenario finished at 20/05/2025 20:57:42. It took 55 Seconds
+----------------------------------------------------------------------
+
+90:
+SimManager is starting. servers..Total applications: 90, Total Tasks: 4071, Critical tasks: 964
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4071(3583/243/245)
+# of failed tasks (Edge/Cloud/Mobile): 27(23/2/2)
+# of completed tasks (Edge/Cloud/Mobile): 4044(3560/241/243)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 26
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.663228%
+# of critical task failed: 4
+average service time: 136.236519 seconds. (on Edge: 124.799520, on Cloud: 199.692856, on Mobile: 240.856850)
+average processing time: 76.977212 seconds. (on Edge: 68.411287, on Cloud: 38.271575, on Mobile: 240.856850)
+average network delay: 63.047787 seconds. (LAN delay: 56.388233, MAN delay: NaN, WAN delay: 161.421281)
+average server utilization Edge/Cloud/Mobile: 0.004851/0.000038/0.000000
+average cost: 0.0$
+Total Completed Jobs: 90
+Total Service Time: 141496.70053707287
+Average service time of jobs: 1572.185561523032
+Total Service Time for successful jobs: 137753.76469793668
+Average service time for successful jobs: 1626.3988567479641
+Successful applications: 87
+Total Energy: 27.095164805452182
+Total Energy Consumption: (Total/CPU/NW) 27.095164805452182/0.0/27.095164805452182
+Average Energy Consumption of jobs: 0.30105738672724647
+Total service time for successful tasks(numSucc/ServiceTime/Average):4044/790585.1239490294/195.49582689145137
+Scenario finished at 20/05/2025 20:59:26. It took 1 Minute 4 Seconds
+----------------------------------------------------------------------
+
+100:
+SimManager is starting. servers..Total applications: 100, Total Tasks: 4468, Critical tasks: 1065
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4468(3948/244/276)
+# of failed tasks (Edge/Cloud/Mobile): 29(23/3/3)
+# of completed tasks (Edge/Cloud/Mobile): 4439(3925/241/273)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 29
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.649060%
+# of critical task failed: 4
+average service time: 143.668052 seconds. (on Edge: 134.437528, on Cloud: 188.597053, on Mobile: 236.715377)
+average processing time: 81.969107 seconds. (on Edge: 73.922568, on Cloud: 37.724019, on Mobile: 236.715377)
+average network delay: 65.742107 seconds. (LAN delay: 60.514960, MAN delay: NaN, WAN delay: 150.873033)
+average server utilization Edge/Cloud/Mobile: 0.005772/0.000037/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 160306.7061570653
+Average service time of jobs: 1603.0670615706529
+Total Service Time for successful jobs: 154774.12742785437
+Average service time for successful jobs: 1669.8615224694302
+Successful applications: 96
+Total Energy: 29.899535387922736
+Total Energy Consumption: (Total/CPU/NW) 29.899535387922736/0.0/29.899535387922736
+Average Energy Consumption of jobs: 0.2989953538792274
+Total service time for successful tasks(numSucc/ServiceTime/Average):4439/911624.1021855195/205.3669975637575
+Scenario finished at 20/05/2025 18:23:05. It took 1 Minute 0 Seconds
+----------------------------------------------------------------------
+
+
+[[10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
+[0, 0, 2, 0, 0, 3, 6, 25, 26, 38], 100 = 85
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0], = 15
+ [0.0, 0.0, 0.143472, 0.0, 0.0, 0.108303, 0.187735, 0.70205, 0.663228, 0.64906],
+ [0, 0, 0, 0, 0, 1, 1, 3, 4, 4], = 13
+ [1103.4233954093575, 1241.8689443770465, 1438.6170845220468, 1360.0080513277437, 1407.3199388313283, 1410.0929022320356, 1576.4482926167045, 1564.6165765988899, 1626.3988567479641, 1669.8615224694302],
+  [2.2212721914779623, 3.7892530348949456, 7.295707605325163, 12.347237494740577, 16.18538612319228, 11.939780080463162, 12.505951828394045, 16.20527761845555, 27.095164805452182, 29.899535387922736],
+  [28, 54, 86, 102, 142, 170, 220, 189, 245, 276]]
+
+
+Small:
+10:
+SimManager is starting. servers..Total applications: 10, Total Tasks: 166, Critical tasks: 43
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 166(150/7/9)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 166(150/7/9)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 62.812910 seconds. (on Edge: 52.949159, on Cloud: 90.135729, on Mobile: 205.957677)
+average processing time: 55.692073 seconds. (on Edge: 47.126549, on Cloud: 46.040370, on Mobile: 205.957677)
+average network delay: 7.529038 seconds. (LAN delay: 5.822610, MAN delay: NaN, WAN delay: 44.095359)
+average server utilization Edge/Cloud/Mobile: 0.000139/0.000001/0.000000
+average cost: 0.0$
+Total Completed Jobs: 10
+Total Service Time: 5031.368962771336
+Average service time of jobs: 503.1368962771336
+Total Service Time for successful jobs: 5031.368962771336
+Average service time for successful jobs: 503.1368962771336
+Successful applications: 10
+Total Energy: 0.5148941920494958
+Total Energy Consumption: (Total/CPU/NW) 0.5148941920494958/0.0/0.5148941920494958
+Average Energy Consumption of jobs: 0.05148941920494958
+Total service time for successful tasks(numSucc/ServiceTime/Average):166/11609.002082407727/69.9337474843839
+Scenario finished at 21/05/2025 18:04:50. It took 1 Minute 19 Seconds
+----------------------------------------------------------------------
+
+20:
+SimManager is starting. servers..Total applications: 20, Total Tasks: 322, Critical tasks: 75
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 322(283/20/19)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 322(283/20/19)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 72.427961 seconds. (on Edge: 58.864685, on Cloud: 107.175271, on Mobile: 237.873268)
+average processing time: 59.708016 seconds. (on Edge: 49.208541, on Cloud: 39.018591, on Mobile: 237.873268)
+average network delay: 13.517565 seconds. (LAN delay: 9.656144, MAN delay: NaN, WAN delay: 68.156680)
+average server utilization Edge/Cloud/Mobile: 0.000275/0.000003/0.000000
+average cost: 0.0$
+Total Completed Jobs: 20
+Total Service Time: 12019.440212245718
+Average service time of jobs: 600.9720106122859
+Total Service Time for successful jobs: 12019.440212245718
+Average service time for successful jobs: 600.9720106122859
+Successful applications: 20
+Total Energy: 1.255442250403444
+Total Energy Consumption: (Total/CPU/NW) 1.255442250403444/0.0/1.255442250403444
+Average Energy Consumption of jobs: 0.0627721125201722
+Total service time for successful tasks(numSucc/ServiceTime/Average):322/27417.625764761753/85.14790610174458
+Scenario finished at 21/05/2025 18:09:05. It took 1 Minute 4 Seconds
+----------------------------------------------------------------------
+
+30:
+SimManager is starting. servers..Total applications: 30, Total Tasks: 498, Critical tasks: 118
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 498(439/26/33)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 498(439/26/33)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 78.891208 seconds. (on Edge: 58.618204, on Cloud: 214.786278, on Mobile: 241.514750)
+average processing time: 60.115433 seconds. (on Edge: 47.870071, on Cloud: 36.636050, on Mobile: 241.514750)
+average network delay: 20.108250 seconds. (LAN delay: 10.748132, MAN delay: NaN, WAN delay: 178.150228)
+average server utilization Edge/Cloud/Mobile: 0.000413/0.000004/0.000000
+average cost: 0.0$
+Total Completed Jobs: 30
+Total Service Time: 20903.723680717234
+Average service time of jobs: 696.7907893572411
+Total Service Time for successful jobs: 20903.723680717234
+Average service time for successful jobs: 696.7907893572411
+Successful applications: 30
+Total Energy: 2.2138852050703424
+Total Energy Consumption: (Total/CPU/NW) 2.2138852050703424/0.0/2.2138852050703424
+Average Energy Consumption of jobs: 0.07379617350234474
+Total service time for successful tasks(numSucc/ServiceTime/Average):498/48638.15748205943/97.66698289570166
+Scenario finished at 21/05/2025 18:10:48. It took 1 Minute 2 Seconds
+----------------------------------------------------------------------
+
+40:
+SimManager is starting. servers..Total applications: 40, Total Tasks: 668, Critical tasks: 169
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 668(584/36/48)
+# of failed tasks (Edge/Cloud/Mobile): 1(0/0/1)
+# of completed tasks (Edge/Cloud/Mobile): 667(584/36/47)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 1
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.149701%
+# of critical task failed: 0
+average service time: 85.798135 seconds. (on Edge: 67.799773, on Cloud: 181.901717, on Mobile: 235.826104)
+average processing time: 60.831950 seconds. (on Edge: 47.950606, on Cloud: 41.331384, on Mobile: 235.826104)
+average network delay: 26.858784 seconds. (LAN delay: 19.849168, MAN delay: NaN, WAN delay: 140.570333)
+average server utilization Edge/Cloud/Mobile: 0.000550/0.000006/0.000000
+average cost: 0.0$
+Total Completed Jobs: 40
+Total Service Time: 28050.473668835533
+Average service time of jobs: 701.2618417208884
+Total Service Time for successful jobs: 27632.127173861212
+Average service time for successful jobs: 719.2429145855265
+Successful applications: 39
+Total Energy: 3.1439445575244553
+Total Energy Consumption: (Total/CPU/NW) 3.1439445575244553/0.0/3.1439445575244553
+Average Energy Consumption of jobs: 0.07859861393811138
+Total service time for successful tasks(numSucc/ServiceTime/Average):667/73879.80209111962/110.76432097619134
+Scenario finished at 21/05/2025 18:13:28. It took 1 Minute 43 Seconds
+----------------------------------------------------------------------
+
+50:
+SimManager is starting. servers..Total applications: 50, Total Tasks: 832, Critical tasks: 206
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 832(725/57/50)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 832(725/57/50)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 110.789343 seconds. (on Edge: 95.752825, on Cloud: 193.817068, on Mobile: 234.167236)
+average processing time: 58.955150 seconds. (on Edge: 48.530448, on Cloud: 37.855234, on Mobile: 234.167236)
+average network delay: 55.148399 seconds. (LAN delay: 47.222377, MAN delay: NaN, WAN delay: 155.961834)
+average server utilization Edge/Cloud/Mobile: 0.000693/0.000009/0.000000
+average cost: 0.0$
+Total Completed Jobs: 50
+Total Service Time: 43106.30101018267
+Average service time of jobs: 862.1260202036534
+Total Service Time for successful jobs: 43106.30101018267
+Average service time for successful jobs: 862.1260202036534
+Successful applications: 50
+Total Energy: 3.2523227173180773
+Total Energy Consumption: (Total/CPU/NW) 3.2523227173180773/0.0/3.2523227173180773
+Average Energy Consumption of jobs: 0.06504645434636154
+Total service time for successful tasks(numSucc/ServiceTime/Average):832/135302.78130821278/162.62353522621729
+Scenario finished at 21/05/2025 18:15:51. It took 1 Minute 10 Seconds
+----------------------------------------------------------------------
+
+60:
+SimManager is starting. servers..Total applications: 60, Total Tasks: 997, Critical tasks: 255
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 997(882/51/64)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 997(882/51/64)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 118.663002 seconds. (on Edge: 107.581395, on Cloud: 178.098522, on Mobile: 224.018715)
+average processing time: 59.630133 seconds. (on Edge: 48.941476, on Cloud: 38.189471, on Mobile: 224.018715)
+average network delay: 63.082283 seconds. (LAN delay: 58.639919, MAN delay: NaN, WAN delay: 139.909050)
+average server utilization Edge/Cloud/Mobile: 0.000849/0.000008/0.000000
+average cost: 0.0$
+Total Completed Jobs: 60
+Total Service Time: 53663.240910748704
+Average service time of jobs: 894.3873485124784
+Total Service Time for successful jobs: 53663.240910748704
+Average service time for successful jobs: 894.3873485124784
+Successful applications: 60
+Total Energy: 3.9825549395098037
+Total Energy Consumption: (Total/CPU/NW) 3.9825549395098037/0.0/3.9825549395098037
+Average Energy Consumption of jobs: 0.06637591565849672
+Total service time for successful tasks(numSucc/ServiceTime/Average):997/177162.78280930148/177.69587042056318
+Scenario finished at 21/05/2025 18:17:49. It took 1 Minute 27 Seconds
+----------------------------------------------------------------------
+
+70:
+SimManager is starting. servers..Total applications: 70, Total Tasks: 1159, Critical tasks: 296
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 1159(1032/49/78)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 1159(1032/49/78)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 117.744525 seconds. (on Edge: 105.995251, on Cloud: 179.826331, on Mobile: 234.196351)
+average processing time: 60.472008 seconds. (on Edge: 48.358393, on Cloud: 39.058782, on Mobile: 234.196351)
+average network delay: 61.405039 seconds. (LAN delay: 57.636858, MAN delay: NaN, WAN delay: 140.767549)
+average server utilization Edge/Cloud/Mobile: 0.000981/0.000008/0.000000
+average cost: 0.0$
+Total Completed Jobs: 70
+Total Service Time: 61358.84009356795
+Average service time of jobs: 876.5548584795422
+Total Service Time for successful jobs: 61358.84009356795
+Average service time for successful jobs: 876.5548584795422
+Successful applications: 70
+Total Energy: 5.074254270811247
+Total Energy Consumption: (Total/CPU/NW) 5.074254270811247/0.0/5.074254270811247
+Average Energy Consumption of jobs: 0.07248934672587495
+Total service time for successful tasks(numSucc/ServiceTime/Average):1159/202844.7518403669/175.01704214009223
+Scenario finished at 21/05/2025 18:19:19. It took 55 Seconds
+----------------------------------------------------------------------
+
+80:
+SimManager is starting. servers..Total applications: 80, Total Tasks: 1320, Critical tasks: 334
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 1320(1159/77/84)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 1320(1159/77/84)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 120.444705 seconds. (on Edge: 107.317995, on Cloud: 194.158951, on Mobile: 233.990657)
+average processing time: 59.963820 seconds. (on Edge: 48.712027, on Cloud: 39.477770, on Mobile: 233.990657)
+average network delay: 64.591236 seconds. (LAN delay: 58.605968, MAN delay: NaN, WAN delay: 154.681181)
+average server utilization Edge/Cloud/Mobile: 0.001108/0.000012/0.000000
+average cost: 0.0$
+Total Completed Jobs: 80
+Total Service Time: 77508.58523984802
+Average service time of jobs: 968.8573154981002
+Total Service Time for successful jobs: 77508.58523984802
+Average service time for successful jobs: 968.8573154981002
+Successful applications: 80
+Total Energy: 5.459782005626755
+Total Energy Consumption: (Total/CPU/NW) 5.459782005626755/0.0/5.459782005626755
+Average Energy Consumption of jobs: 0.06824727507033443
+Total service time for successful tasks(numSucc/ServiceTime/Average):1320/238821.77815784374/180.925589513518
+Scenario finished at 21/05/2025 18:22:23. It took 58 Seconds
+----------------------------------------------------------------------
+
+90:
+SimManager is starting. servers..Total applications: 90, Total Tasks: 1468, Critical tasks: 370
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 1468(1295/87/86)
+# of failed tasks (Edge/Cloud/Mobile): 3(2/0/1)
+# of completed tasks (Edge/Cloud/Mobile): 1465(1293/87/85)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 3
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.204360%
+# of critical task failed: 0
+average service time: 113.669484 seconds. (on Edge: 101.753253, on Cloud: 177.788829, on Mobile: 229.308354)
+average processing time: 59.439126 seconds. (on Edge: 49.696545, on Cloud: 38.269839, on Mobile: 229.308354)
+average network delay: 57.570635 seconds. (LAN delay: 52.056708, MAN delay: NaN, WAN delay: 139.518990)
+average server utilization Edge/Cloud/Mobile: 0.001269/0.000014/0.000000
+average cost: 0.0$
+Total Completed Jobs: 90
+Total Service Time: 80990.29078461725
+Average service time of jobs: 899.8921198290805
+Total Service Time for successful jobs: 79511.36390422808
+Average service time for successful jobs: 920.3442134615597
+Successful applications: 88
+Total Energy: 5.468329272700837
+Total Energy Consumption: (Total/CPU/NW) 5.468329272700837/0.0/5.468329272700837
+Average Energy Consumption of jobs: 0.060759214141120406
+Total service time for successful tasks(numSucc/ServiceTime/Average):1465/245973.27042662323/167.89984329462337
+Scenario finished at 21/05/2025 18:25:17. It took 53 Seconds
+----------------------------------------------------------------------
+
+100:
+SimManager is starting. servers..Total applications: 100, Total Tasks: 1641, Critical tasks: 414
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 1641(1452/96/93)
+# of failed tasks (Edge/Cloud/Mobile): 2(2/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 1639(1450/96/93)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 2
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.121877%
+# of critical task failed: 0
+average service time: 112.037552 seconds. (on Edge: 100.188946, on Cloud: 167.398567, on Mobile: 239.627035)
+average processing time: 60.482853 seconds. (on Edge: 50.504223, on Cloud: 37.655817, on Mobile: 239.627035)
+average network delay: 54.655985 seconds. (LAN delay: 49.684723, MAN delay: NaN, WAN delay: 129.742750)
+average server utilization Edge/Cloud/Mobile: 0.001448/0.000015/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 93425.35725413704
+Average service time of jobs: 934.2535725413704
+Total Service Time for successful jobs: 92653.49266962323
+Average service time for successful jobs: 943.6904773145155
+Successful applications: 99
+Total Energy: 6.190365070814428
+Total Energy Consumption: (Total/CPU/NW) 6.190365070814428/0.0/6.190365070814428
+Average Energy Consumption of jobs: 0.06190365070814428
+Total service time for successful tasks(numSucc/ServiceTime/Average):1639/268127.7014947139/163.59225228475526
+Scenario finished at 21/05/2025 18:27:40. It took 1 Minute 10 Seconds
+----------------------------------------------------------------------
+
+
+[[10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
+[0, 0, 0, 1, 0, 0, 0, 0, 3, 2],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0.0, 0.0, 0.0, 0.149701, 0.0, 0.0, 0.0, 0.0, 0.20436, 0.121877],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+[503.1368962771336, 600.9720106122859, 696.7907893572411, 719.2429145855265, 862.1260202036534, 894.3873485124784, 876.5548584795422, 968.8573154981002, 920.3442134615597, 943.6904773145155],
+[0.5148941920494958, 1.255442250403444, 2.2138852050703424, 3.1439445575244553, 3.2523227173180773, 3.9825549395098037, 5.074254270811247, 5.459782005626755, 5.468329272700837, 6.190365070814428],
+[9, 19, 33, 48, 50, 64, 78, 84, 86, 93]]
+
+
+Medium:
+
+10:
+SimManager is starting. servers..Total applications: 10, Total Tasks: 526, Critical tasks: 124
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 526(462/34/30)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 526(462/34/30)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 80.204244 seconds. (on Edge: 57.983026, on Cloud: 198.334457, on Mobile: 288.530095)
+average processing time: 61.093799 seconds. (on Edge: 48.010708, on Cloud: 38.190843, on Mobile: 288.530095)
+average network delay: 20.266319 seconds. (LAN delay: 9.972318, MAN delay: NaN, WAN delay: 160.143614)
+average server utilization Edge/Cloud/Mobile: 0.000437/0.000005/0.000000
+average cost: 0.0$
+Total Completed Jobs: 10
+Total Service Time: 11576.74456496075
+Average service time of jobs: 1157.674456496075
+Total Service Time for successful jobs: 11576.74456496075
+Average service time for successful jobs: 1157.674456496075
+Successful applications: 10
+Total Energy: 2.404417455722687
+Total Energy Consumption: (Total/CPU/NW) 2.404417455722687/0.0/2.404417455722687
+Average Energy Consumption of jobs: 0.24044174557226872
+Total service time for successful tasks(numSucc/ServiceTime/Average):526/52239.52653990635/99.31468923936569
+Scenario finished at 21/05/2025 18:29:19. It took 1 Minute 6 Seconds
+----------------------------------------------------------------------
+
+20:
+SimManager is starting. servers..Total applications: 20, Total Tasks: 961, Critical tasks: 227
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 961(853/47/61)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 961(853/47/61)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 113.940662 seconds. (on Edge: 102.862737, on Cloud: 160.373249, on Mobile: 233.074080)
+average processing time: 59.291980 seconds. (on Edge: 48.091864, on Cloud: 37.015200, on Mobile: 233.074080)
+average network delay: 58.352648 seconds. (LAN delay: 54.770873, MAN delay: NaN, WAN delay: 123.358049)
+average server utilization Edge/Cloud/Mobile: 0.000807/0.000007/0.000000
+average cost: 0.0$
+Total Completed Jobs: 20
+Total Service Time: 25603.033023456952
+Average service time of jobs: 1280.1516511728476
+Total Service Time for successful jobs: 25603.033023456952
+Average service time for successful jobs: 1280.1516511728476
+Successful applications: 20
+Total Energy: 3.949310799137361
+Total Energy Consumption: (Total/CPU/NW) 3.949310799137361/0.0/3.949310799137361
+Average Energy Consumption of jobs: 0.19746553995686805
+Total service time for successful tasks(numSucc/ServiceTime/Average):961/162014.35917759963/168.5893435771068
+Scenario finished at 21/05/2025 18:30:59. It took 52 Seconds
+----------------------------------------------------------------------
+
+30:
+SimManager is starting. servers..Total applications: 30, Total Tasks: 1394, Critical tasks: 326
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 1394(1238/85/71)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 1394(1238/85/71)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 121.930499 seconds. (on Edge: 108.529365, on Cloud: 208.098945, on Mobile: 252.441555)
+average processing time: 58.044847 seconds. (on Edge: 48.238872, on Cloud: 38.487563, on Mobile: 252.441555)
+average network delay: 67.314133 seconds. (LAN delay: 60.290493, MAN delay: NaN, WAN delay: 169.611382)
+average server utilization Edge/Cloud/Mobile: 0.001174/0.000013/0.000000
+average cost: 0.0$
+Total Completed Jobs: 30
+Total Service Time: 46022.75777572672
+Average service time of jobs: 1534.0919258575573
+Total Service Time for successful jobs: 46022.75777572672
+Average service time for successful jobs: 1534.0919258575573
+Successful applications: 30
+Total Energy: 4.978708445482088
+Total Energy Consumption: (Total/CPU/NW) 4.978708445482088/0.0/4.978708445482088
+Average Energy Consumption of jobs: 0.16595694818273626
+Total service time for successful tasks(numSucc/ServiceTime/Average):1394/259027.7125315031/185.816149592183
+Scenario finished at 21/05/2025 18:32:31. It took 1 Minute 2 Seconds
+----------------------------------------------------------------------
+
+40:
+SimManager is starting. servers..Total applications: 40, Total Tasks: 1839, Critical tasks: 421
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 1839(1607/124/108)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 1839(1607/124/108)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 118.203935 seconds. (on Edge: 104.022748, on Cloud: 195.966689, on Mobile: 239.931587)
+average processing time: 58.882346 seconds. (on Edge: 48.321408, on Cloud: 38.060641, on Mobile: 239.931587)
+average network delay: 63.022763 seconds. (LAN delay: 55.701340, MAN delay: NaN, WAN delay: 157.906049)
+average server utilization Edge/Cloud/Mobile: 0.001530/0.000019/0.000000
+average cost: 0.0$
+Total Completed Jobs: 40
+Total Service Time: 54781.52554218165
+Average service time of jobs: 1369.538138554541
+Total Service Time for successful jobs: 54781.52554218165
+Average service time for successful jobs: 1369.538138554541
+Successful applications: 40
+Total Energy: 7.19794760368446
+Total Energy Consumption: (Total/CPU/NW) 7.19794760368446/0.0/7.19794760368446
+Average Energy Consumption of jobs: 0.1799486900921115
+Total service time for successful tasks(numSucc/ServiceTime/Average):1839/326469.4400630246/177.52552477597857
+Scenario finished at 21/05/2025 18:33:59. It took 58 Seconds
+----------------------------------------------------------------------
+
+50:
+SimManager is starting. servers..Total applications: 50, Total Tasks: 2394, Critical tasks: 546
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 2394(2104/135/155)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 2394(2104/135/155)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 117.122648 seconds. (on Edge: 102.396900, on Cloud: 179.276251, on Mobile: 262.879015)
+average processing time: 63.764917 seconds. (on Edge: 50.711100, on Cloud: 38.598589, on Mobile: 262.879015)
+average network delay: 57.051544 seconds. (LAN delay: 51.685800, MAN delay: NaN, WAN delay: 140.677662)
+average server utilization Edge/Cloud/Mobile: 0.002104/0.000021/0.000000
+average cost: 0.0$
+Total Completed Jobs: 50
+Total Service Time: 68708.40748736361
+Average service time of jobs: 1374.1681497472723
+Total Service Time for successful jobs: 68708.40748736361
+Average service time for successful jobs: 1374.1681497472723
+Successful applications: 50
+Total Energy: 11.318402051570157
+Total Energy Consumption: (Total/CPU/NW) 11.318402051570157/0.0/11.318402051570157
+Average Energy Consumption of jobs: 0.22636804103140315
+Total service time for successful tasks(numSucc/ServiceTime/Average):2394/408130.02649991104/170.4803786549336
+Scenario finished at 21/05/2025 18:36:05. It took 49 Seconds
+----------------------------------------------------------------------
+
+60:
+SimManager is starting. servers..Total applications: 60, Total Tasks: 2770, Critical tasks: 637
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 2770(2455/138/177)
+# of failed tasks (Edge/Cloud/Mobile): 1(0/1/0)
+# of completed tasks (Edge/Cloud/Mobile): 2769(2455/137/177)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 1
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.036101%
+# of critical task failed: 1
+average service time: 124.041680 seconds. (on Edge: 111.226474, on Cloud: 176.890189, on Mobile: 260.883955)
+average processing time: 70.348377 seconds. (on Edge: 58.350412, on Cloud: 39.181996, on Mobile: 260.883955)
+average network delay: 57.359859 seconds. (LAN delay: 52.876062, MAN delay: NaN, WAN delay: 137.708192)
+average server utilization Edge/Cloud/Mobile: 0.002824/0.000022/0.000000
+average cost: 0.0$
+Total Completed Jobs: 60
+Total Service Time: 85385.84787318183
+Average service time of jobs: 1423.0974645530305
+Total Service Time for successful jobs: 83803.63360259295
+Average service time for successful jobs: 1447.217760562404
+Successful applications: 59
+Total Energy: 12.826794457681357
+Total Energy Consumption: (Total/CPU/NW) 12.826794457681357/0.0/12.826794457681357
+Average Energy Consumption of jobs: 0.21377990762802263
+Total service time for successful tasks(numSucc/ServiceTime/Average):2769/492148.1655863577/177.7349821546976
+Scenario finished at 21/05/2025 18:37:56. It took 1 Minute 6 Seconds
+----------------------------------------------------------------------
+
+70:
+SimManager is starting. servers..Total applications: 70, Total Tasks: 3196, Critical tasks: 745
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 3196(2812/200/184)
+# of failed tasks (Edge/Cloud/Mobile): 8(3/2/3)
+# of completed tasks (Edge/Cloud/Mobile): 3188(2809/198/181)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 8
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.250313%
+# of critical task failed: 0
+average service time: 128.002631 seconds. (on Edge: 115.984582, on Cloud: 188.146260, on Mobile: 248.722294)
+average processing time: 65.435367 seconds. (on Edge: 55.506878, on Cloud: 38.739369, on Mobile: 248.722294)
+average network delay: 66.333367 seconds. (LAN delay: 60.477704, MAN delay: NaN, WAN delay: 149.406891)
+average server utilization Edge/Cloud/Mobile: 0.003083/0.000031/0.000000
+average cost: 0.0$
+Total Completed Jobs: 70
+Total Service Time: 106828.164315521
+Average service time of jobs: 1526.1166330788715
+Total Service Time for successful jobs: 102079.17869549361
+Average service time for successful jobs: 1594.4502136644926
+Successful applications: 67
+Total Energy: 12.878075161034904
+Total Energy Consumption: (Total/CPU/NW) 12.878075161034904/0.0/12.878075161034904
+Average Energy Consumption of jobs: 0.18397250230049864
+Total service time for successful tasks(numSucc/ServiceTime/Average):3188/607536.8223483771/190.56989408669293
+Scenario finished at 21/05/2025 18:40:57. It took 1 Minute 22 Seconds
+----------------------------------------------------------------------
+
+80:
+SimManager is starting. servers..Total applications: 80, Total Tasks: 3561, Critical tasks: 831
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 3561(3166/195/200)
+# of failed tasks (Edge/Cloud/Mobile): 18(14/3/1)
+# of completed tasks (Edge/Cloud/Mobile): 3543(3152/192/199)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 17
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.505476%
+# of critical task failed: 2
+average service time: 127.991641 seconds. (on Edge: 118.515734, on Cloud: 168.640159, on Mobile: 238.863722)
+average processing time: 69.587701 seconds. (on Edge: 60.783070, on Cloud: 38.682856, on Mobile: 238.863722)
+average network delay: 61.879533 seconds. (LAN delay: 57.732664, MAN delay: NaN, WAN delay: 129.957303)
+average server utilization Edge/Cloud/Mobile: 0.003805/0.000030/0.000000
+average cost: 0.0$
+Total Completed Jobs: 80
+Total Service Time: 118827.55755917633
+Average service time of jobs: 1485.3444694897041
+Total Service Time for successful jobs: 113625.67261802268
+Average service time for successful jobs: 1563.5204941996885
+Successful applications: 76
+Total Energy: 13.284434252927763
+Total Energy Consumption: (Total/CPU/NW) 13.284434252927763/0.0/13.284434252927763
+Average Energy Consumption of jobs: 0.16605542816159705
+Total service time for successful tasks(numSucc/ServiceTime/Average):3543/660399.5417449812/186.39558050944996
+Scenario finished at 21/05/2025 18:47:08. It took 58 Seconds
+----------------------------------------------------------------------
+
+90:
+SimManager is starting. servers..Total applications: 90, Total Tasks: 4071, Critical tasks: 964
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4071(3590/218/263)
+# of failed tasks (Edge/Cloud/Mobile): 28(21/3/4)
+# of completed tasks (Edge/Cloud/Mobile): 4043(3569/215/259)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 28
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.687792%
+# of critical task failed: 2
+average service time: 140.032569 seconds. (on Edge: 130.507011, on Cloud: 178.262429, on Mobile: 239.558813)
+average processing time: 77.412488 seconds. (on Edge: 67.997524, on Cloud: 38.371117, on Mobile: 239.558813)
+average network delay: 66.906181 seconds. (LAN delay: 62.509486, MAN delay: NaN, WAN delay: 139.891312)
+average server utilization Edge/Cloud/Mobile: 0.004851/0.000034/0.000000
+average cost: 0.0$
+Total Completed Jobs: 90
+Total Service Time: 146361.71468963422
+Average service time of jobs: 1626.2412743292691
+Total Service Time for successful jobs: 138898.41964087138
+Average service time for successful jobs: 1721.9025257604026
+Successful applications: 85
+Total Energy: 17.548693117656157
+Total Energy Consumption: (Total/CPU/NW) 17.548693117656157/0.0/17.548693117656157
+Average Energy Consumption of jobs: 0.1949854790850684
+Total service time for successful tasks(numSucc/ServiceTime/Average):4043/819324.6651951969/202.65265030798835
+Scenario finished at 21/05/2025 18:49:40. It took 50 Seconds
+----------------------------------------------------------------------
+
+100:
+SimManager is starting. servers..Total applications: 100, Total Tasks: 4468, Critical tasks: 1065
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4468(3945/270/253)
+# of failed tasks (Edge/Cloud/Mobile): 40(30/3/7)
+# of completed tasks (Edge/Cloud/Mobile): 4428(3915/267/246)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 39
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.895255%
+# of critical task failed: 6
+average service time: 144.573372 seconds. (on Edge: 134.583374, on Cloud: 203.236072, on Mobile: 239.890037)
+average processing time: 80.672667 seconds. (on Edge: 73.500949, on Cloud: 39.136342, on Mobile: 239.890037)
+average network delay: 67.659570 seconds. (LAN delay: 61.082425, MAN delay: NaN, WAN delay: 164.099731)
+average server utilization Edge/Cloud/Mobile: 0.005736/0.000043/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 162916.24574839757
+Average service time of jobs: 1629.1624574839757
+Total Service Time for successful jobs: 156158.98377157593
+Average service time for successful jobs: 1714.9078499831323
+Successful applications: 95
+Total Energy: 16.877266485152393
+Total Energy Consumption: (Total/CPU/NW) 16.877266485152393/0.0/16.877266485152393
+Average Energy Consumption of jobs: 0.16877266485152392
+Total service time for successful tasks(numSucc/ServiceTime/Average):4428/923123.2136132419/208.47407714842862
+Scenario finished at 21/05/2025 18:51:32. It took 1 Minute 13 Seconds
+----------------------------------------------------------------------
+
+[[10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
+[0, 0, 0, 0, 0, 1, 8, 17, 28, 39],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+[0.0, 0.0, 0.0, 0.0, 0.0, 0.036101, 0.250313, 0.505476, 0.687792, 0.895255],
+[0, 0, 0, 0, 0, 1, 0, 2, 2, 6],
+[1157.674456496075, 1280.1516511728476, 1534.0919258575573, 1369.538138554541, 1374.1681497472723, 1447.217760562404, 1594.4502136644926, 1563.5204941996885, 1721.9025257604026, 1714.9078499831323],
+[2.404417455722687, 3.949310799137361, 4.978708445482088, 7.19794760368446, 11.318402051570157, 12.826794457681357, 12.878075161034904, 13.284434252927763, 17.548693117656157, 16.877266485152393],
+[30, 61, 71, 108, 155, 177, 184, 200, 263, 253]]
+
+
+Large:
+
+10:
+SimManager is starting. servers..Total applications: 10, Total Tasks: 614, Critical tasks: 148
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 614(543/35/36)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 614(543/35/36)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 82.496632 seconds. (on Edge: 62.019025, on Cloud: 200.345416, on Mobile: 276.792001)
+average processing time: 61.088112 seconds. (on Edge: 48.259095, on Cloud: 38.254306, on Mobile: 276.792001)
+average network delay: 22.741923 seconds. (LAN delay: 13.759931, MAN delay: NaN, WAN delay: 162.091110)
+average server utilization Edge/Cloud/Mobile: 0.000516/0.000006/0.000000
+average cost: 0.0$
+Total Completed Jobs: 10
+Total Service Time: 12950.745045051397
+Average service time of jobs: 1295.0745045051397
+Total Service Time for successful jobs: 12950.745045051397
+Average service time for successful jobs: 1295.0745045051397
+Successful applications: 10
+Total Energy: 2.7679200095202
+Total Energy Consumption: (Total/CPU/NW) 2.7679200095202/0.0/2.7679200095202
+Average Energy Consumption of jobs: 0.27679200095202
+Total service time for successful tasks(numSucc/ServiceTime/Average):614/63797.76351977566/103.90515231233822
+Scenario finished at 21/05/2025 18:52:52. It took 55 Seconds
+----------------------------------------------------------------------
+
+20:
+SimManager is starting. servers..Total applications: 20, Total Tasks: 1306, Critical tasks: 279
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 1306(1144/88/74)
+# of failed tasks (Edge/Cloud/Mobile): 1(0/1/0)
+# of completed tasks (Edge/Cloud/Mobile): 1305(1144/87/74)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 1
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.076570%
+# of critical task failed: 1
+average service time: 123.868596 seconds. (on Edge: 109.599986, on Cloud: 192.187879, on Mobile: 264.132267)
+average processing time: 59.579860 seconds. (on Edge: 47.959074, on Cloud: 38.399410, on Mobile: 264.132267)
+average network delay: 68.153372 seconds. (LAN delay: 61.640912, MAN delay: NaN, WAN delay: 153.788469)
+average server utilization Edge/Cloud/Mobile: 0.001079/0.000014/0.000000
+average cost: 0.0$
+Total Completed Jobs: 20
+Total Service Time: 34387.09895019123
+Average service time of jobs: 1719.3549475095617
+Total Service Time for successful jobs: 32492.802508901575
+Average service time for successful jobs: 1809.8473131679596
+Successful applications: 19
+Total Energy: 5.4293854981090295
+Total Energy Consumption: (Total/CPU/NW) 5.4293854981090295/0.0/5.4293854981090295
+Average Energy Consumption of jobs: 0.2714692749054515
+Total service time for successful tasks(numSucc/ServiceTime/Average):1305/245545.3182320712/188.15733197859862
+Scenario finished at 21/05/2025 19:08:48. It took 56 Seconds
+----------------------------------------------------------------------
+
+30:
+SimManager is starting. servers..Total applications: 30, Total Tasks: 1878, Critical tasks: 411
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 1878(1648/123/107)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 1878(1648/123/107)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 119.125840 seconds. (on Edge: 104.612787, on Cloud: 194.348561, on Mobile: 256.183008)
+average processing time: 60.214761 seconds. (on Edge: 49.133026, on Cloud: 38.215558, on Mobile: 256.183008)
+average network delay: 62.470359 seconds. (LAN delay: 55.479762, MAN delay: NaN, WAN delay: 156.133003)
+average server utilization Edge/Cloud/Mobile: 0.001593/0.000019/0.000000
+average cost: 0.0$
+Total Completed Jobs: 30
+Total Service Time: 47419.38386111128
+Average service time of jobs: 1580.6461287037093
+Total Service Time for successful jobs: 47419.38386111128
+Average service time for successful jobs: 1580.6461287037093
+Successful applications: 30
+Total Energy: 7.6143282917330986
+Total Energy Consumption: (Total/CPU/NW) 7.6143282917330986/0.0/7.6143282917330986
+Average Energy Consumption of jobs: 0.25381094305776997
+Total service time for successful tasks(numSucc/ServiceTime/Average):1878/334353.3347979147/178.0369194877075
+Scenario finished at 21/05/2025 19:10:44. It took 47 Seconds
+----------------------------------------------------------------------
+
+40:
+SimManager is starting. servers..Total applications: 40, Total Tasks: 2521, Critical tasks: 582
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 2521(2220/148/153)
+# of failed tasks (Edge/Cloud/Mobile): 1(0/1/0)
+# of completed tasks (Edge/Cloud/Mobile): 2520(2220/147/153)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 1
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.039667%
+# of critical task failed: 0
+average service time: 116.083250 seconds. (on Edge: 102.811555, on Cloud: 181.099613, on Mobile: 246.186246)
+average processing time: 64.662254 seconds. (on Edge: 53.806254, on Cloud: 39.676886, on Mobile: 246.186246)
+average network delay: 54.744786 seconds. (LAN delay: 49.005301, MAN delay: NaN, WAN delay: 141.422728)
+average server utilization Edge/Cloud/Mobile: 0.002353/0.000024/0.000000
+average cost: 0.0$
+Total Completed Jobs: 40
+Total Service Time: 63867.88721440253
+Average service time of jobs: 1596.6971803600632
+Total Service Time for successful jobs: 62193.487054755904
+Average service time for successful jobs: 1637.638133702629
+Successful applications: 39
+Total Energy: 10.462915464042753
+Total Energy Consumption: (Total/CPU/NW) 10.462915464042753/0.0/10.462915464042753
+Average Energy Consumption of jobs: 0.2615728866010688
+Total service time for successful tasks(numSucc/ServiceTime/Average):2520/422110.69890488463/167.50424559717644
+Scenario finished at 21/05/2025 19:12:11. It took 47 Seconds
+----------------------------------------------------------------------
+
+50:
+SimManager is starting. servers..Total applications: 50, Total Tasks: 3184, Critical tasks: 747
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 3184(2810/185/189)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 3184(2810/185/189)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 124.115296 seconds. (on Edge: 112.608484, on Cloud: 172.315068, on Mobile: 248.015742)
+average processing time: 71.160830 seconds. (on Edge: 61.416207, on Cloud: 38.494942, on Mobile: 248.015742)
+average network delay: 56.296167 seconds. (LAN delay: 51.192276, MAN delay: NaN, WAN delay: 133.820126)
+average server utilization Edge/Cloud/Mobile: 0.003411/0.000029/0.000000
+average cost: 0.0$
+Total Completed Jobs: 50
+Total Service Time: 86104.89336134309
+Average service time of jobs: 1722.0978672268618
+Total Service Time for successful jobs: 86104.89336134309
+Average service time for successful jobs: 1722.0978672268618
+Successful applications: 50
+Total Energy: 13.020826460539103
+Total Energy Consumption: (Total/CPU/NW) 13.020826460539103/0.0/13.020826460539103
+Average Energy Consumption of jobs: 0.26041652921078207
+Total service time for successful tasks(numSucc/ServiceTime/Average):3184/563790.1216154244/177.06976181388958
+Scenario finished at 21/05/2025 19:14:43. It took 1 Minute 1 Seconds
+----------------------------------------------------------------------
+
+60:
+SimManager is starting. servers..Total applications: 60, Total Tasks: 3860, Critical tasks: 903
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 3860(3374/256/230)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 3860(3374/256/230)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 133.900125 seconds. (on Edge: 122.631695, on Cloud: 178.739735, on Mobile: 249.294652)
+average processing time: 73.682788 seconds. (on Edge: 64.383888, on Cloud: 38.463103, on Mobile: 249.294652)
+average network delay: 64.032760 seconds. (LAN delay: 58.247807, MAN delay: NaN, WAN delay: 140.276632)
+average server utilization Edge/Cloud/Mobile: 0.004292/0.000040/0.000000
+average cost: 0.0$
+Total Completed Jobs: 60
+Total Service Time: 105112.89672270282
+Average service time of jobs: 1751.881612045047
+Total Service Time for successful jobs: 105112.89672270282
+Average service time for successful jobs: 1751.881612045047
+Successful applications: 60
+Total Energy: 15.927158299121361
+Total Energy Consumption: (Total/CPU/NW) 15.927158299121361/0.0/15.927158299121361
+Average Energy Consumption of jobs: 0.26545263831868937
+Total service time for successful tasks(numSucc/ServiceTime/Average):3860/749293.3994933256/194.11746100863357
+Scenario finished at 21/05/2025 19:16:21. It took 47 Seconds
+----------------------------------------------------------------------
+
+70:
+SimManager is starting. servers..Total applications: 70, Total Tasks: 4511, Critical tasks: 1036
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4511(3984/248/279)
+# of failed tasks (Edge/Cloud/Mobile): 12(9/2/1)
+# of completed tasks (Edge/Cloud/Mobile): 4499(3975/246/278)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 12
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.266016%
+# of critical task failed: 2
+average service time: 147.210047 seconds. (on Edge: 137.289940, on Cloud: 203.872328, on Mobile: 238.913308)
+average processing time: 90.899111 seconds. (on Edge: 83.739385, on Cloud: 39.321722, on Mobile: 238.913308)
+average network delay: 60.019641 seconds. (LAN delay: 53.550554, MAN delay: NaN, WAN delay: 164.550606)
+average server utilization Edge/Cloud/Mobile: 0.006641/0.000040/0.000000
+average cost: 0.0$
+Total Completed Jobs: 70
+Total Service Time: 130890.06134438029
+Average service time of jobs: 1869.8580192054326
+Total Service Time for successful jobs: 125727.76164125233
+Average service time for successful jobs: 1953.5830051400044
+Successful applications: 67
+Total Energy: 18.52783018361386
+Total Energy Consumption: (Total/CPU/NW) 18.52783018361386/0.0/18.52783018361386
+Average Energy Consumption of jobs: 0.2646832883373409
+Total service time for successful tasks(numSucc/ServiceTime/Average):4499/915640.9064660468/203.520983877761
+Scenario finished at 21/05/2025 19:18:12. It took 49 Seconds
+----------------------------------------------------------------------
+
+80:
+SimManager is starting. servers..Total applications: 80, Total Tasks: 5152, Critical tasks: 1191
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 5152(4543/306/303)
+# of failed tasks (Edge/Cloud/Mobile): 28(19/5/4)
+# of completed tasks (Edge/Cloud/Mobile): 5124(4524/301/299)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 28
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.543478%
+# of critical task failed: 3
+average service time: 156.089101 seconds. (on Edge: 147.433771, on Cloud: 197.587357, on Mobile: 245.272169)
+average processing time: 91.968357 seconds. (on Edge: 85.403310, on Cloud: 38.355171, on Mobile: 245.272169)
+average network delay: 68.094236 seconds. (LAN delay: 62.030460, MAN delay: NaN, WAN delay: 159.232186)
+average server utilization Edge/Cloud/Mobile: 0.007741/0.000048/0.000000
+average cost: 0.0$
+Total Completed Jobs: 80
+Total Service Time: 157984.59464226145
+Average service time of jobs: 1974.8074330282682
+Total Service Time for successful jobs: 148227.43388523665
+Average service time for successful jobs: 2106.4612618968195
+Successful applications: 75
+Total Energy: 20.680136055599355
+Total Energy Consumption: (Total/CPU/NW) 20.680136055599355/0.0/20.680136055599355
+Average Energy Consumption of jobs: 0.25850170069499195
+Total service time for successful tasks(numSucc/ServiceTime/Average):5124/1128355.2419837716/220.20984425912795
+Scenario finished at 21/05/2025 19:19:40. It took 50 Seconds
+----------------------------------------------------------------------
+
+90:
+SimManager is starting. servers..Total applications: 90, Total Tasks: 5807, Critical tasks: 1342
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 5807(5119/338/350)
+# of failed tasks (Edge/Cloud/Mobile): 35(29/5/1)
+# of completed tasks (Edge/Cloud/Mobile): 5772(5090/333/349)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 35
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.602721%
+# of critical task failed: 5
+average service time: 165.517968 seconds. (on Edge: 158.855063, on Cloud: 184.376754, on Mobile: 244.699084)
+average processing time: 104.901797 seconds. (on Edge: 99.550858, on Cloud: 40.178137, on Mobile: 244.699084)
+average network delay: 64.517157 seconds. (LAN delay: 59.304205, MAN delay: NaN, WAN delay: 144.198617)
+average server utilization Edge/Cloud/Mobile: 0.010210/0.000055/0.000000
+average cost: 0.0$
+Total Completed Jobs: 90
+Total Service Time: 191295.6176950477
+Average service time of jobs: 2125.5068632783077
+Total Service Time for successful jobs: 177120.9326794137
+Average service time for successful jobs: 2304.7664782535867
+Successful applications: 83
+Total Energy: 23.791068630960606
+Total Energy Consumption: (Total/CPU/NW) 23.791068630960606/0.0/23.791068630960606
+Average Energy Consumption of jobs: 0.2643452070106734
+Total service time for successful tasks(numSucc/ServiceTime/Average):5772/1305246.255163639/226.1341398412403
+Scenario finished at 21/05/2025 19:21:14. It took 59 Seconds
+----------------------------------------------------------------------
+
+100:
+SimManager is starting. servers..Total applications: 100, Total Tasks: 6519, Critical tasks: 1479
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 6519(5772/388/359)
+# of failed tasks (Edge/Cloud/Mobile): 49(42/2/5)
+# of completed tasks (Edge/Cloud/Mobile): 6470(5730/386/354)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 49
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.751649%
+# of critical task failed: 6
+average service time: 190.429282 seconds. (on Edge: 187.771599, on Cloud: 189.426936, on Mobile: 234.540660)
+average processing time: 122.680772 seconds. (on Edge: 121.400069, on Cloud: 39.105719, on Mobile: 234.540660)
+average network delay: 71.669859 seconds. (LAN delay: 66.371530, MAN delay: NaN, WAN delay: 150.321217)
+average server utilization Edge/Cloud/Mobile: 0.014152/0.000062/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 239904.37988677018
+Average service time of jobs: 2399.0437988677018
+Total Service Time for successful jobs: 218226.99564101585
+Average service time for successful jobs: 2636.3118668875845
+Successful applications: 91
+Total Energy: 23.42311463811299
+Total Energy Consumption: (Total/CPU/NW) 23.42311463811299/0.0/23.42311463811299
+Average Energy Consumption of jobs: 0.2342311463811299
+Total service time for successful tasks(numSucc/ServiceTime/Average):6470/1670410.3144422474/258.17779203125923
+Scenario finished at 21/05/2025 19:22:43. It took 56 Seconds
+----------------------------------------------------------------------
+
+[[10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
+[0, 1, 0, 1, 0, 0, 12, 28, 35, 49],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+[0.0, 0.07657, 0.0, 0.039667, 0.0, 0.0, 0.266016, 0.543478, 0.602721, 0.751649],
+[0, 1, 0, 0, 0, 0, 2, 3, 5, 6],
+[1295.0745045051397, 1809.8473131679596, 1580.6461287037093, 1637.638133702629, 1722.0978672268618, 1751.881612045047, 1953.5830051400044, 2106.4612618968195, 2304.7664782535867, 2636.3118668875845],
+[2.7679200095202, 5.4293854981090295, 7.6143282917330986, 10.462915464042753, 13.020826460539103, 15.927158299121361, 18.52783018361386, 20.680136055599355, 23.791068630960606, 23.42311463811299],
+[36, 74, 107, 153, 189, 230, 279, 303, 350, 359]]
+
+
+Real network:
+10:
+SimManager is starting. servers..Total applications: 10, Total Tasks: 526, Critical tasks: 124
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 526(474/24/28)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 526(474/24/28)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 122.785928 seconds. (on Edge: 115.743184, on Cloud: 145.575018, on Mobile: 222.476021)
+average processing time: 57.453754 seconds. (on Edge: 48.625808, on Cloud: 39.279711, on Mobile: 222.476021)
+average network delay: 69.005469 seconds. (LAN delay: 67.117376, MAN delay: NaN, WAN delay: 106.295307)
+average server utilization Edge/Cloud/Mobile: 0.000454/0.000004/0.000000
+average cost: 0.0$
+Total Completed Jobs: 10
+Total Service Time: 21475.58665962462
+Average service time of jobs: 2147.558665962462
+Total Service Time for successful jobs: 21475.58665962462
+Average service time for successful jobs: 2147.558665962462
+Successful applications: 10
+Total Energy: 3.154530183112522
+Total Energy Consumption: (Total/CPU/NW) 3.154530183112522/0.0/3.154530183112522
+Average Energy Consumption of jobs: 0.31545301831125216
+Total service time for successful tasks(numSucc/ServiceTime/Average):526/98950.1219127458/188.11810249571445
+Scenario finished at 22/05/2025 17:20:20. It took 1 Minute 4 Seconds
+----------------------------------------------------------------------
+
+20:
+SimManager is starting. servers..Total applications: 20, Total Tasks: 961, Critical tasks: 227
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 961(848/60/53)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 961(848/60/53)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 115.601393 seconds. (on Edge: 109.507980, on Cloud: 90.737151, on Mobile: 241.244200)
+average processing time: 57.915193 seconds. (on Edge: 47.939194, on Cloud: 36.968691, on Mobile: 241.244200)
+average network delay: 61.053346 seconds. (LAN delay: 61.568786, MAN delay: NaN, WAN delay: 53.768460)
+average server utilization Edge/Cloud/Mobile: 0.000799/0.000009/0.000000
+average cost: 0.0$
+Total Completed Jobs: 20
+Total Service Time: 35601.22286732506
+Average service time of jobs: 1780.061143366253
+Total Service Time for successful jobs: 35601.22286732506
+Average service time for successful jobs: 1780.061143366253
+Successful applications: 20
+Total Energy: 6.18358240582147
+Total Energy Consumption: (Total/CPU/NW) 6.18358240582147/0.0/6.18358240582147
+Average Energy Consumption of jobs: 0.30917912029107353
+Total service time for successful tasks(numSucc/ServiceTime/Average):961/166529.37656310864/173.28759267753242
+Scenario finished at 22/05/2025 17:22:21. It took 59 Seconds
+----------------------------------------------------------------------
+
+30:
+SimManager is starting. servers..Total applications: 30, Total Tasks: 1394, Critical tasks: 326
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 1394(1242/83/69)
+# of failed tasks (Edge/Cloud/Mobile): 5(5/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 1389(1237/83/69)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 5
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.358680%
+# of critical task failed: 0
+average service time: 110.926453 seconds. (on Edge: 105.872809, on Cloud: 93.631638, on Mobile: 222.329742)
+average processing time: 56.163473 seconds. (on Edge: 48.137481, on Cloud: 37.641537, on Mobile: 222.329742)
+average network delay: 57.625590 seconds. (LAN delay: 57.735328, MAN delay: NaN, WAN delay: 55.990101)
+average server utilization Edge/Cloud/Mobile: 0.001178/0.000013/0.000000
+average cost: 0.0$
+Total Completed Jobs: 30
+Total Service Time: 54740.682362724976
+Average service time of jobs: 1824.6894120908325
+Total Service Time for successful jobs: 40749.09822427026
+Average service time for successful jobs: 2105.410860104807
+Successful applications: 26
+Total Energy: 7.954939622864919
+Total Energy Consumption: (Total/CPU/NW) 7.954939622864919/0.0/7.954939622864919
+Average Energy Consumption of jobs: 0.26516465409549733
+Total service time for successful tasks(numSucc/ServiceTime/Average):1389/230142.6226049125/165.68943312088732
+Scenario finished at 22/05/2025 17:24:56. It took 50 Seconds
+----------------------------------------------------------------------
+
+40:
+SimManager is starting. servers..Total applications: 40, Total Tasks: 1839, Critical tasks: 421
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 1839(1600/131/108)
+# of failed tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 1839(1600/131/108)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 0
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.000000%
+# of critical task failed: 0
+average service time: 121.642388 seconds. (on Edge: 115.259238, on Cloud: 92.677425, on Mobile: 251.340997)
+average processing time: 59.636090 seconds. (on Edge: 48.503230, on Cloud: 37.563164, on Mobile: 251.340997)
+average network delay: 65.874975 seconds. (LAN delay: 66.756008, MAN delay: NaN, WAN delay: 55.114261)
+average server utilization Edge/Cloud/Mobile: 0.001527/0.000020/0.000000
+average cost: 0.0$
+Total Completed Jobs: 40
+Total Service Time: 70407.64616819583
+Average service time of jobs: 1760.1911542048958
+Total Service Time for successful jobs: 70407.64616819583
+Average service time for successful jobs: 1760.1911542048958
+Successful applications: 40
+Total Energy: 12.345850444246008
+Total Energy Consumption: (Total/CPU/NW) 12.345850444246008/0.0/12.345850444246008
+Average Energy Consumption of jobs: 0.3086462611061502
+Total service time for successful tasks(numSucc/ServiceTime/Average):1839/337729.93246527226/183.64868540797838
+Scenario finished at 22/05/2025 17:27:27. It took 49 Seconds
+----------------------------------------------------------------------
+
+50:
+SimManager is starting. servers..Total applications: 50, Total Tasks: 2394, Critical tasks: 546
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 2394(2095/152/147)
+# of failed tasks (Edge/Cloud/Mobile): 1(1/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 2393(2094/152/147)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 1
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.041771%
+# of critical task failed: 0
+average service time: 116.815359 seconds. (on Edge: 110.143371, on Cloud: 88.016081, on Mobile: 241.635997)
+average processing time: 61.254844 seconds. (on Edge: 50.174562, on Cloud: 39.452747, on Mobile: 241.635997)
+average network delay: 59.196934 seconds. (LAN delay: 59.968809, MAN delay: NaN, WAN delay: 48.563334)
+average server utilization Edge/Cloud/Mobile: 0.002069/0.000024/0.000000
+average cost: 0.0$
+Total Completed Jobs: 50
+Total Service Time: 97691.95218038489
+Average service time of jobs: 1953.839043607698
+Total Service Time for successful jobs: 89646.52747412333
+Average service time for successful jobs: 1993.7133098037732
+Successful applications: 49
+Total Energy: 16.20032489660115
+Total Energy Consumption: (Total/CPU/NW) 16.20032489660115/0.0/16.20032489660115
+Average Energy Consumption of jobs: 0.32400649793202296
+Total service time for successful tasks(numSucc/ServiceTime/Average):2393/412495.4674083855/172.37587438712305
+Scenario finished at 22/05/2025 17:30:39. It took 58 Seconds
+----------------------------------------------------------------------
+
+60:
+SimManager is starting. servers..Total applications: 60, Total Tasks: 2770, Critical tasks: 637
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 2770(2428/181/161)
+# of failed tasks (Edge/Cloud/Mobile): 2(2/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 2768(2426/181/161)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 2
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.072202%
+# of critical task failed: 0
+average service time: 112.682419 seconds. (on Edge: 104.357725, on Cloud: 94.542585, on Mobile: 258.514838)
+average processing time: 64.342863 seconds. (on Edge: 53.353908, on Cloud: 38.914781, on Mobile: 258.514838)
+average network delay: 51.324853 seconds. (LAN delay: 51.003817, MAN delay: NaN, WAN delay: 55.627804)
+average server utilization Edge/Cloud/Mobile: 0.002550/0.000029/0.000000
+average cost: 0.0$
+Total Completed Jobs: 60
+Total Service Time: 95488.35899608822
+Average service time of jobs: 1591.4726499348037
+Total Service Time for successful jobs: 85258.99552780588
+Average service time for successful jobs: 1646.351017173935
+Successful applications: 58
+Total Energy: 18.832921281723454
+Total Energy Consumption: (Total/CPU/NW) 18.832921281723454/0.0/18.832921281723454
+Average Energy Consumption of jobs: 0.31388202136205756
+Total service time for successful tasks(numSucc/ServiceTime/Average):2768/445708.8284107727/161.02197558192657
+Scenario finished at 22/05/2025 17:32:43. It took 1 Minute 3 Seconds
+----------------------------------------------------------------------
+
+70:
+SimManager is starting. servers..Total applications: 70, Total Tasks: 3196, Critical tasks: 745
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 3196(2810/187/199)
+# of failed tasks (Edge/Cloud/Mobile): 7(6/0/1)
+# of completed tasks (Edge/Cloud/Mobile): 3189(2804/187/198)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 7
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.219024%
+# of critical task failed: 1
+average service time: 124.152157 seconds. (on Edge: 117.675293, on Cloud: 77.417043, on Mobile: 260.013736)
+average processing time: 75.109836 seconds. (on Edge: 64.489837, on Cloud: 38.572419, on Mobile: 260.013736)
+average network delay: 52.288854 seconds. (LAN delay: 53.185456, MAN delay: NaN, WAN delay: 38.844624)
+average server utilization Edge/Cloud/Mobile: 0.003583/0.000029/0.000000
+average cost: 0.0$
+Total Completed Jobs: 70
+Total Service Time: 124711.34818097862
+Average service time of jobs: 1781.5906882996944
+Total Service Time for successful jobs: 110949.89741875311
+Average service time for successful jobs: 1889.5658815299792
+Successful applications: 66
+Total Energy: 22.847835844017922
+Total Energy Consumption: (Total/CPU/NW) 22.847835844017922/0.0/22.847835844017922
+Average Energy Consumption of jobs: 0.32639765491454176
+Total service time for successful tasks(numSucc/ServiceTime/Average):3189/552317.1926758961/173.19447873185828
+Scenario finished at 22/05/2025 17:34:00. It took 49 Seconds
+----------------------------------------------------------------------
+
+80:
+SimManager is starting. servers..Total applications: 80, Total Tasks: 3561, Critical tasks: 831
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 3561(3153/202/206)
+# of failed tasks (Edge/Cloud/Mobile): 25(21/3/1)
+# of completed tasks (Edge/Cloud/Mobile): 3536(3132/199/205)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 24
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.702050%
+# of critical task failed: 3
+average service time: 128.555362 seconds. (on Edge: 122.382903, on Cloud: 91.590531, on Mobile: 258.741425)
+average processing time: 72.384492 seconds. (on Edge: 62.391572, on Cloud: 37.684255, on Mobile: 258.741425)
+average network delay: 59.627799 seconds. (LAN delay: 59.991331, MAN delay: NaN, WAN delay: 53.906276)
+average server utilization Edge/Cloud/Mobile: 0.003884/0.000031/0.000000
+average cost: 0.0$
+Total Completed Jobs: 80
+Total Service Time: 145442.89623970762
+Average service time of jobs: 1818.0362029963453
+Total Service Time for successful jobs: 128750.14749485582
+Average service time for successful jobs: 1992.3684416398305
+Successful applications: 73
+Total Energy: 24.263619235849795
+Total Energy Consumption: (Total/CPU/NW) 24.263619235849795/0.0/24.263619235849795
+Average Energy Consumption of jobs: 0.30329524044812245
+Total service time for successful tasks(numSucc/ServiceTime/Average):3536/653191.9569334039/184.72623216442418
+Scenario finished at 22/05/2025 17:35:23. It took 1 Minute 3 Seconds
+----------------------------------------------------------------------
+
+90:
+SimManager is starting. servers..Total applications: 90, Total Tasks: 4071, Critical tasks: 964
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4071(3596/254/221)
+# of failed tasks (Edge/Cloud/Mobile): 15(14/1/0)
+# of completed tasks (Edge/Cloud/Mobile): 4056(3582/253/221)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 14
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.368460%
+# of critical task failed: 1
+average service time: 130.271117 seconds. (on Edge: 125.514794, on Cloud: 90.794973, on Mobile: 252.554447)
+average processing time: 73.173442 seconds. (on Edge: 64.537326, on Cloud: 38.751959, on Mobile: 252.554447)
+average network delay: 60.388050 seconds. (LAN delay: 60.977468, MAN delay: NaN, WAN delay: 52.043014)
+average server utilization Edge/Cloud/Mobile: 0.004586/0.000040/0.000000
+average cost: 0.0$
+Total Completed Jobs: 90
+Total Service Time: 161387.41172321019
+Average service time of jobs: 1793.1934635912244
+Total Service Time for successful jobs: 158941.06057795353
+Average service time for successful jobs: 1833.9478604910248
+Successful applications: 88
+Total Energy: 26.228475150183225
+Total Energy Consumption: (Total/CPU/NW) 26.228475150183225/0.0/26.228475150183225
+Average Energy Consumption of jobs: 0.2914275016687025
+Total service time for successful tasks(numSucc/ServiceTime/Average):4056/759967.8235067601/187.3687927778008
+Scenario finished at 22/05/2025 17:37:30. It took 1 Minute 36 Seconds
+----------------------------------------------------------------------
+
+100:
+SimManager is starting. servers..Total applications: 100, Total Tasks: 4468, Critical tasks: 1065
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4468(3940/286/242)
+# of failed tasks (Edge/Cloud/Mobile): 35(31/3/1)
+# of completed tasks (Edge/Cloud/Mobile): 4433(3909/283/241)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 35
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.783348%
+# of critical task failed: 8
+average service time: 141.166342 seconds. (on Edge: 138.659544, on Cloud: 79.917536, on Mobile: 253.749267)
+average processing time: 86.255301 seconds. (on Edge: 79.446935, on Cloud: 37.661150, on Mobile: 253.749267)
+average network delay: 58.067902 seconds. (LAN delay: 59.212609, MAN delay: NaN, WAN delay: 42.256386)
+average server utilization Edge/Cloud/Mobile: 0.006217/0.000044/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 200760.84361702835
+Average service time of jobs: 2007.6084361702835
+Total Service Time for successful jobs: 164294.05863786672
+Average service time for successful jobs: 2255.739815921667
+Successful applications: 89
+Total Energy: 28.893305773678506
+Total Energy Consumption: (Total/CPU/NW) 28.893305773678506/0.0/28.893305773678506
+Average Energy Consumption of jobs: 0.28893305773678507
+Total service time for successful tasks(numSucc/ServiceTime/Average):4433/869211.0418545754/196.07738368025613
+Scenario finished at 22/05/2025 17:39:15. It took 1 Minute 8 Seconds
+----------------------------------------------------------------------
+
+[[10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
+[0, 0, 5, 0, 1, 2, 7, 24, 14, 35],
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+[0.0, 0.0, 0.35868, 0.0, 0.041771, 0.072202, 0.219024, 0.70205, 0.36846, 0.783348],
+[0, 0, 0, 0, 0, 0, 1, 3, 1, 8],
+[2147.558665962462, 1780.061143366253, 2105.410860104807, 1760.1911542048958, 1993.7133098037732, 1646.351017173935, 1889.5658815299792, 1992.3684416398305, 1833.9478604910248, 2255.739815921667],
+ [3.154530183112522, 6.18358240582147, 7.954939622864919, 12.345850444246008, 16.20032489660115, 18.832921281723454, 22.847835844017922, 24.263619235849795, 26.228475150183225, 28.893305773678506],
+[28, 53, 69, 108, 147, 161, 199, 206, 221, 242]]
+
+
+
+Horizontal Scaling:
+8:
+SimManager is starting. servers..Total applications: 300, Total Tasks: 13808, Critical tasks: 3213
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 13808(11052/0/2756)
+# of failed tasks (Edge/Cloud/Mobile): 1371(1324/0/47)
+# of completed tasks (Edge/Cloud/Mobile): 12437(9728/0/2709)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 1371
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 9.929027%
+# of critical task failed: 174
+average service time: 934.765829 seconds. (on Edge: 1127.084350, on Cloud: NaN, on Mobile: 244.151368)
+average processing time: 910.617702 seconds. (on Edge: 1096.211586, on Cloud: NaN, on Mobile: 244.151368)
+average network delay: 30.872764 seconds. (LAN delay: 30.872764, MAN delay: NaN, WAN delay: NaN)
+average server utilization Edge/Cloud/Mobile: 1.245495/0.000000/0.000000
+average cost: 0.0$
+Total Completed Jobs: 300
+Total Service Time: 4571920.920720392
+Average service time of jobs: 15239.736402401306
+Total Service Time for successful jobs: 1002344.6260342693
+Average service time for successful jobs: 65313.15601029131
+Successful applications: 70
+Total Energy: 187.2348949390752
+Total Energy Consumption: (Total/CPU/NW) 187.2348949390752/0.0/187.2348949390752
+Average Energy Consumption of jobs: 0.624116316463584
+Total service time for successful tasks(numSucc/ServiceTime/Average):12437/1.1926012866216393E7/958.9139556337053
+Scenario finished at 23/05/2025 07:48:55. It took 1 Minute 4 Seconds
+----------------------------------------------------------------------
+
+16:
+SimManager is starting. servers..Total applications: 300, Total Tasks: 13808, Critical tasks: 3213
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 13808(12194/798/816)
+# of failed tasks (Edge/Cloud/Mobile): 401(375/9/17)
+# of completed tasks (Edge/Cloud/Mobile): 13407(11819/789/799)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 401
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 2.904114%
+# of critical task failed: 55
+average service time: 340.664496 seconds. (on Edge: 357.891162, on Cloud: 193.377040, on Mobile: 231.287578)
+average processing time: 281.463265 seconds. (on Edge: 301.061768, on Cloud: 38.694790, on Mobile: 231.287578)
+average network delay: 62.952958 seconds. (LAN delay: 56.829394, MAN delay: NaN, WAN delay: 154.682249)
+average server utilization Edge/Cloud/Mobile: 0.076589/0.000125/0.000000
+average cost: 0.0$
+Total Completed Jobs: 300
+Total Service Time: 1129353.132405518
+Average service time of jobs: 3764.510441351727
+Total Service Time for successful jobs: 924942.1135521921
+Average service time for successful jobs: 4553.843275828702
+Successful applications: 248
+Total Energy: 52.44854960001445
+Total Energy Consumption: (Total/CPU/NW) 52.44854960001445/0.0/52.44854960001445
+Average Energy Consumption of jobs: 0.17482849866671485
+Total service time for successful tasks(numSucc/ServiceTime/Average):13407/5360999.800289775/399.8657268807172
+Scenario finished at 23/05/2025 07:45:45. It took 59 Seconds
+----------------------------------------------------------------------
+
+32:
+SimManager is starting. servers..Total applications: 300, Total Tasks: 13808, Critical tasks: 3213
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 13808(12198/767/843)
+# of failed tasks (Edge/Cloud/Mobile): 384(346/8/30)
+# of completed tasks (Edge/Cloud/Mobile): 13424(11852/759/813)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 383
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 2.780997%
+# of critical task failed: 47
+average service time: 343.195962 seconds. (on Edge: 360.560360, on Cloud: 194.273543, on Mobile: 229.086823)
+average processing time: 280.723955 seconds. (on Edge: 299.786633, on Cloud: 38.365762, on Mobile: 229.086823)
+average network delay: 66.499423 seconds. (LAN delay: 60.773727, MAN delay: NaN, WAN delay: 155.907781)
+average server utilization Edge/Cloud/Mobile: 0.076067/0.000119/0.000000
+average cost: 0.0$
+Total Completed Jobs: 300
+Total Service Time: 1121147.8387080869
+Average service time of jobs: 3737.1594623602896
+Total Service Time for successful jobs: 953811.5320063913
+Average service time for successful jobs: 4362.442952171545
+Successful applications: 257
+Total Energy: 53.77287276485954
+Total Energy Consumption: (Total/CPU/NW) 53.77287276485954/0.0/53.77287276485954
+Average Energy Consumption of jobs: 0.17924290921619848
+Total service time for successful tasks(numSucc/ServiceTime/Average):13424/5445686.814053223/405.6679688657049
+Scenario finished at 23/05/2025 07:52:37. It took 1 Minute 0 Seconds
+----------------------------------------------------------------------
+
+64:
+SimManager is starting. servers..Total applications: 300, Total Tasks: 13808, Critical tasks: 3213
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 13808(13407/0/401)
+# of failed tasks (Edge/Cloud/Mobile): 273(267/0/6)
+# of completed tasks (Edge/Cloud/Mobile): 13535(13140/0/395)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 272
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 1.977115%
+# of critical task failed: 36
+average service time: 223.362237 seconds. (on Edge: 223.111253, on Cloud: NaN, on Mobile: 231.711411)
+average processing time: 162.655278 seconds. (on Edge: 160.579390, on Cloud: NaN, on Mobile: 231.711411)
+average network delay: 62.531863 seconds. (LAN delay: 62.531863, MAN delay: NaN, WAN delay: NaN)
+average server utilization Edge/Cloud/Mobile: 0.022883/0.000000/0.000000
+average cost: 0.0$
+Total Completed Jobs: 300
+Total Service Time: 823304.4381746768
+Average service time of jobs: 2744.348127248923
+Total Service Time for successful jobs: 720154.0323457676
+Average service time for successful jobs: 3130.435126139456
+Successful applications: 263
+Total Energy: 25.809730840549012
+Total Energy Consumption: (Total/CPU/NW) 25.809730840549012/0.0/25.809730840549012
+Average Energy Consumption of jobs: 0.08603243613516337
+Total service time for successful tasks(numSucc/ServiceTime/Average):13535/3844876.559200846/284.06919536023986
+Scenario finished at 23/05/2025 08:02:54. It took 59 Seconds
+----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+latency_weight = 0.6, energy_weight = 0.4
+SimManager is starting. servers..Total applications: 100, Total Tasks: 4468, Critical tasks: 1065
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4468(3975/259/234)
+# of failed tasks (Edge/Cloud/Mobile): 37(33/2/2)
+# of completed tasks (Edge/Cloud/Mobile): 4431(3942/257/232)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 37
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.828111%
+# of critical task failed: 5
+average service time: 147.957045 seconds. (on Edge: 140.577156, on Cloud: 174.844652, on Mobile: 243.566558)
+average processing time: 87.106648 seconds. (on Edge: 81.075922, on Cloud: 38.368992, on Mobile: 243.566558)
+average network delay: 64.212458 seconds. (LAN delay: 59.501234, MAN delay: NaN, WAN delay: 136.475660)
+average server utilization Edge/Cloud/Mobile: 0.006385/0.000040/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 163371.24978606155
+Average service time of jobs: 1633.7124978606155
+Total Service Time for successful jobs: 157597.40049543578
+Average service time for successful jobs: 1701.7838519381412
+Successful applications: 96
+Total Energy: 15.841133658097652
+Total Energy Consumption: (Total/CPU/NW) 15.841133658097652/0.0/15.841133658097652
+Average Energy Consumption of jobs: 0.15841133658097653
+Total service time for successful tasks(numSucc/ServiceTime/Average):4431/925225.7759935319/208.80744211093025
+Scenario finished at 24/05/2025 16:05:47. It took 59 Seconds
+----------------------------------------------------------------------
+
+latency_weight = 0.1, energy_weight = 0.9
+SimManager is starting. servers..Total applications: 100, Total Tasks: 4468, Critical tasks: 1065
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4468(3946/233/289)
+# of failed tasks (Edge/Cloud/Mobile): 36(31/1/4)
+# of completed tasks (Edge/Cloud/Mobile): 4432(3915/232/285)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 35
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.805730%
+# of critical task failed: 6
+average service time: 143.181546 seconds. (on Edge: 133.565537, on Cloud: 188.547145, on Mobile: 238.345956)
+average processing time: 84.976518 seconds. (on Edge: 76.503098, on Cloud: 39.559057, on Mobile: 238.345956)
+average network delay: 62.205133 seconds. (LAN delay: 57.062439, MAN delay: NaN, WAN delay: 148.988088)
+average server utilization Edge/Cloud/Mobile: 0.006000/0.000037/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 163483.97073342095
+Average service time of jobs: 1634.8397073342096
+Total Service Time for successful jobs: 156175.4443664326
+Average service time for successful jobs: 1720.8839024570627
+Successful applications: 95
+Total Energy: 19.13040993116176
+Total Energy Consumption: (Total/CPU/NW) 19.13040993116176/0.0/19.13040993116176
+Average Energy Consumption of jobs: 0.19130409931161763
+Total service time for successful tasks(numSucc/ServiceTime/Average):4432/892545.2973721782/201.3865743168272
+Scenario finished at 24/05/2025 19:01:11. It took 48 Seconds
+----------------------------------------------------------------------
+
+latency_weight = 0.9, energy_weight = 0.1
+SimManager is starting. servers..Total applications: 100, Total Tasks: 4468, Critical tasks: 1065
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4468(3944/279/245)
+# of failed tasks (Edge/Cloud/Mobile): 36(32/3/1)
+# of completed tasks (Edge/Cloud/Mobile): 4432(3912/276/244)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 35
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.805730%
+# of critical task failed: 9
+average service time: 147.581123 seconds. (on Edge: 138.129483, on Cloud: 204.195891, on Mobile: 235.077602)
+average processing time: 82.356788 seconds. (on Edge: 75.944652, on Cloud: 38.227800, on Mobile: 235.077602)
+average network delay: 69.024415 seconds. (LAN delay: 62.184831, MAN delay: NaN, WAN delay: 165.968091)
+average server utilization Edge/Cloud/Mobile: 0.005936/0.000044/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 173269.47558721702
+Average service time of jobs: 1732.6947558721702
+Total Service Time for successful jobs: 164100.55408651684
+Average service time for successful jobs: 1843.2922934810322
+Successful applications: 94
+Total Energy: 16.00189856518695
+Total Energy Consumption: (Total/CPU/NW) 16.00189856518695/0.0/16.00189856518695
+Average Energy Consumption of jobs: 0.16001898565186948
+Total service time for successful tasks(numSucc/ServiceTime/Average):4432/943153.7890285882/212.8054578133096
+Scenario finished at 24/05/2025 17:24:26. It took 47 Seconds
+----------------------------------------------------------------------
+
+latency_weight = 0.25, energy_weight = 0.75
+SimManager is starting. servers..Total applications: 100, Total Tasks: 4468, Critical tasks: 1065
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4468(3954/264/250)
+# of failed tasks (Edge/Cloud/Mobile): 24(24/0/0)
+# of completed tasks (Edge/Cloud/Mobile): 4444(3930/264/250)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 24
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.537153%
+# of critical task failed: 6
+average service time: 148.928332 seconds. (on Edge: 141.955814, on Cloud: 173.983569, on Mobile: 232.077984)
+average processing time: 82.302728 seconds. (on Edge: 75.721509, on Cloud: 38.440519, on Mobile: 232.077984)
+average network delay: 70.597087 seconds. (LAN delay: 66.234305, MAN delay: NaN, WAN delay: 135.543050)
+average server utilization Edge/Cloud/Mobile: 0.005940/0.000041/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 172260.23516696613
+Average service time of jobs: 1722.6023516696614
+Total Service Time for successful jobs: 167157.68399840602
+Average service time for successful jobs: 1794.3774496558972
+Successful applications: 96
+Total Energy: 16.11652666144933
+Total Energy Consumption: (Total/CPU/NW) 16.11652666144933/0.0/16.11652666144933
+Average Energy Consumption of jobs: 0.16116526661449332
+Total service time for successful tasks(numSucc/ServiceTime/Average):4444/957921.6888001587/215.55393537357307
+Scenario finished at 24/05/2025 17:26:00. It took 54 Seconds
+----------------------------------------------------------------------
+
+latency_weight = 0.75, energy_weight = 0.25
+SimManager is starting. servers..Total applications: 100, Total Tasks: 4468, Critical tasks: 1065
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4468(3937/261/270)
+# of failed tasks (Edge/Cloud/Mobile): 40(29/5/6)
+# of completed tasks (Edge/Cloud/Mobile): 4428(3908/256/264)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 39
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.895255%
+# of critical task failed: 6
+average service time: 143.892826 seconds. (on Edge: 134.307503, on Cloud: 185.846816, on Mobile: 245.101997)
+average processing time: 85.670091 seconds. (on Edge: 77.980562, on Cloud: 38.641416, on Mobile: 245.101997)
+average network delay: 61.914090 seconds. (LAN delay: 56.326941, MAN delay: NaN, WAN delay: 147.205400)
+average server utilization Edge/Cloud/Mobile: 0.006110/0.000041/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 161878.0302185967
+Average service time of jobs: 1618.7803021859668
+Total Service Time for successful jobs: 152417.6223155687
+Average service time for successful jobs: 1722.1067044531562
+Successful applications: 94
+Total Energy: 18.449592054745622
+Total Energy Consumption: (Total/CPU/NW) 18.449592054745622/0.0/18.449592054745622
+Average Energy Consumption of jobs: 0.18449592054745623
+Total service time for successful tasks(numSucc/ServiceTime/Average):4428/894967.7030313222/202.11556075684783
+Scenario finished at 24/05/2025 17:27:20. It took 55 Seconds
+----------------------------------------------------------------------
+
+
+latency_weight = 0.5, energy_weight = 0.5
+
+SimManager is starting. servers..Total applications: 100, Total Tasks: 4468, Critical tasks: 1065
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4468(3947/267/254)
+# of failed tasks (Edge/Cloud/Mobile): 34(28/5/1)
+# of completed tasks (Edge/Cloud/Mobile): 4434(3919/262/253)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 33
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.760967%
+# of critical task failed: 8
+average service time: 144.860780 seconds. (on Edge: 137.470750, on Cloud: 158.972228, on Mobile: 244.719786)
+average processing time: 81.668561 seconds. (on Edge: 74.050924, on Cloud: 38.163063, on Mobile: 244.719786)
+average network delay: 67.016096 seconds. (LAN delay: 63.419825, MAN delay: NaN, WAN delay: 120.809166)
+average server utilization Edge/Cloud/Mobile: 0.005794/0.000041/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 163389.28654028886
+Average service time of jobs: 1633.8928654028887
+Total Service Time for successful jobs: 155808.90413001846
+Average service time for successful jobs: 1719.8872267398826
+Successful applications: 95
+Total Energy: 17.26548966862357
+Total Energy Consumption: (Total/CPU/NW) 17.26548966862357/0.0/17.26548966862357
+Average Energy Consumption of jobs: 0.17265489668623568
+Total service time for successful tasks(numSucc/ServiceTime/Average):4434/922506.9931584153/208.05299800595745
+Scenario finished at 24/05/2025 17:28:31. It took 48 Seconds
+----------------------------------------------------------------------
+
+latency_weight = 0.2, energy_weight = 0.8
+
+SimManager is starting. servers..Total applications: 100, Total Tasks: 4468, Critical tasks: 1065
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4468(3967/254/247)
+# of failed tasks (Edge/Cloud/Mobile): 33(29/4/0)
+# of completed tasks (Edge/Cloud/Mobile): 4435(3938/250/247)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 32
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.738585%
+# of critical task failed: 6
+average service time: 143.615938 seconds. (on Edge: 134.795174, on Cloud: 183.892748, on Mobile: 243.482214)
+average processing time: 81.626827 seconds. (on Edge: 74.185315, on Cloud: 38.932397, on Mobile: 243.482214)
+average network delay: 65.645108 seconds. (LAN delay: 60.609859, MAN delay: NaN, WAN delay: 144.960350)
+average server utilization Edge/Cloud/Mobile: 0.005826/0.000040/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 161814.587287192
+Average service time of jobs: 1618.14587287192
+Total Service Time for successful jobs: 156665.26989333256
+Average service time for successful jobs: 1685.5686175749167
+Successful applications: 96
+Total Energy: 16.70558524856551
+Total Energy Consumption: (Total/CPU/NW) 16.70558524856551/0.0/16.70558524856551
+Average Energy Consumption of jobs: 0.16705585248565508
+Total service time for successful tasks(numSucc/ServiceTime/Average):4435/911858.3982840974/205.605050345907
+Scenario finished at 24/05/2025 17:31:19. It took 48 Seconds
+----------------------------------------------------------------------
+
+
+latency_weight = 0.8, energy_weight = 0.2
+
+SimManager is starting. servers..Total applications: 100, Total Tasks: 4468, Critical tasks: 1065
+SimManager is starting...Done.
+.........10.........20.........30.........40.........50.........60.........70.........80.........90.........100
+# of tasks (Edge/Cloud/Mobile): 4468(3948/245/275)
+# of failed tasks (Edge/Cloud/Mobile): 34(29/3/2)
+# of completed tasks (Edge/Cloud/Mobile): 4434(3919/242/273)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 33
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 0.760967%
+# of critical task failed: 7
+average service time: 149.286027 seconds. (on Edge: 139.524182, on Cloud: 189.802608, on Mobile: 253.504553)
+average processing time: 86.143646 seconds. (on Edge: 77.405399, on Cloud: 38.852986, on Mobile: 253.504553)
+average network delay: 67.285105 seconds. (LAN delay: 62.118783, MAN delay: NaN, WAN delay: 150.949622)
+average server utilization Edge/Cloud/Mobile: 0.006061/0.000038/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 168344.02701988546
+Average service time of jobs: 1683.4402701988545
+Total Service Time for successful jobs: 164519.43928284754
+Average service time for successful jobs: 1735.5054331946953
+Successful applications: 97
+Total Energy: 19.34534852272324
+Total Energy Consumption: (Total/CPU/NW) 19.34534852272324/0.0/19.34534852272324
+Average Energy Consumption of jobs: 0.19345348522723238
+Total service time for successful tasks(numSucc/ServiceTime/Average):4434/941907.5657038359/212.42840904461792
+Scenario finished at 24/05/2025 17:32:27. It took 48 Seconds
+----------------------------------------------------------------------

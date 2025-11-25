@@ -1,0 +1,10 @@
+{
+  "min_cpu": 0.004,
+  "max_cpu": 0.006,
+  "memory": 0.001,
+  "min_io": 0.00008,
+  "max_io": 0.0002,
+  "penalty": 1.0,
+  "hard_deadline_surcharge": 0.15,
+  "high_demand_surcharge": 0.15
+}

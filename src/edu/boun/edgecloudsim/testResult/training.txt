@@ -1,0 +1,204 @@
+8:
+# of tasks (Edge/Cloud/Mobile): 13648(10822/2826/0)
+# of failed tasks (Edge/Cloud/Mobile): 5599(5565/34/0)
+# of completed tasks (Edge/Cloud/Mobile): 8049(5257/2792/0)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/936(936/0/0)
+# of failed tasks due to latency: 4663
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 41.024326%
+# of critical task failed: 564
+average service time: 3483.503685 seconds. (on Edge: 5234.806337, on Cloud: 186.011551, on Mobile: NaN)
+average processing time: 3402.241804 seconds. (on Edge: 5188.745068, on Cloud: 38.471154, on Mobile: NaN)
+average network delay: 81.261881 seconds. (LAN delay: 48.496714, MAN delay: NaN, WAN delay: 147.540398)
+average server utilization Edge/Cloud/Mobile: 4.929480/0.000441/0.000000
+average cost: 0.0$
+Total Completed Jobs: 257
+Total Service Time: 1.1437762063135892E7
+Average service time of jobs: 44504.91075150153
+Total Energy: 32.787782401110015
+Total Energy Consumption: (Total/CPU/NW) 32.787782401110015/0.0/32.787782401110015
+Average Energy Consumption of jobs: 0.12757891984867709
+Total service time for successful tasks(numSucc/ServiceTime/Average):8049/2.869279804415824E7/3564.7655664254244
+Scenario finished at 16/05/2025 12:32:56. It took 10 Minutes 39 Seconds
+----------------------------------------------------------------------
+Total reward of agent for episode: (reward/episode) -10406844.73/291
+Average reward of agent for episode: (reward/episode) -1292.94/291
+Average Q-value of agent for episode: (qValue/episode) 329.54/291
+Maximum reward: -1292.94 QValue: 27107.52
+Rewards: -12593404.82, -13717316.15, -14050823.14, -13946057.25, -13849006.95, -13889794.26, -13924058.73, -14202133.39, -14191554.50, -14088336.75, -14027564.92, -14131602.42, -14104796.20, -14047061.50, -13991741.92, -13968370.02, -14101982.27, -13986424.46, -13974522.06, -13999561.66, -13992094.88, -13911355.29, -14020783.61, -13988064.78, -13908807.26, -13889149.98, -13687925.68, -12802671.00, -10516128.22, -10406844.73
+Average rewards: -1554.17, -1856.45, -1900.56, -1902.60, -1892.20, -1919.54, -1903.75, -1965.15, -1960.16, -1953.73, -1967.68, -1953.77, -1950.06, -1928.48, -1944.92, -1947.63, -1952.91, -1949.33, -1940.91, -1927.25, -1899.04, -1908.54, -1930.97, -1933.66, -1886.20, -1881.74, -1826.03, -1611.21, -1314.84, -1292.94
+Average rewards(tot): -922.73, -1005.08, -1029.52, -1021.84, -1014.73, -1017.72, -1020.23, -1040.60, -1039.83, -1032.26, -1027.81, -1035.43, -1033.47, -1029.24, -1025.19, -1023.47, -1033.26, -1024.80, -1023.92, -1025.76, -1025.21, -1019.30, -1027.31, -1024.92, -1019.11, -1017.67, -1002.93, -938.06, -770.53, -762.52
+qvalues: 27107.52, 7706.55, 4017.38, 2072.79, 1176.08, 789.41, 654.15, 521.98, 447.03, 395.01, 348.06, 312.62, 274.27, 256.93, 238.34, 232.59, 220.06, 210.73, 202.35, 197.37, 190.84, 186.91, 181.49, 182.78, 186.36, 197.34, 216.05, 288.28, 368.84, 329.54
+FailureR: 40.63, 45.86, 45.83, 46.29, 46.37, 46.98, 46.41, 47.05, 46.95, 47.16, 47.77, 47.00, 47.00, 46.63, 47.29, 47.45, 47.09, 47.43, 47.25, 46.78, 46.01, 46.59, 46.80, 47.00, 45.97, 45.92, 45.08, 41.78, 41.40, 41.02
+Succ#: 8103, 7389, 7393, 7330, 7319, 7236, 7314, 7227, 7240, 7211, 7129, 7233, 7233, 7284, 7194, 7172, 7221, 7175, 7200, 7264, 7368, 7289, 7261, 7234, 7374, 7381, 7496, 7946, 7998, 8049
+
+
+
+16:
+# of tasks (Edge/Cloud/Mobile): 13648(13209/439/0)
+# of failed tasks (Edge/Cloud/Mobile): 6463(6457/6/0)
+# of completed tasks (Edge/Cloud/Mobile): 7185(6752/433/0)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 6463
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 47.354924%
+# of critical task failed: 485
+average service time: 5217.568394 seconds. (on Edge: 5540.596519, on Cloud: 180.418515, on Mobile: NaN)
+average processing time: 5159.748826 seconds. (on Edge: 5488.187030, on Cloud: 38.236698, on Mobile: NaN)
+average network delay: 57.819568 seconds. (LAN delay: 52.409489, MAN delay: NaN, WAN delay: 142.181817)
+average server utilization Edge/Cloud/Mobile: 3.415700/0.000068/0.000000
+average cost: 0.0$
+Total Completed Jobs: 300
+Total Service Time: 1.6417735421951786E7
+Average service time of jobs: 54725.784739839284
+Total Energy: 38.33421423359997
+Total Energy Consumption: (Total/CPU/NW) 38.33421423359997/0.0/38.33421423359997
+Average Energy Consumption of jobs: 0.1277807141119999
+Total service time for successful tasks(numSucc/ServiceTime/Average):7185/3.7903662510544114E7/5275.387962497441
+Scenario finished at 16/05/2025 23:33:22. It took 10 Minutes 24 Seconds
+----------------------------------------------------------------------
+Total reward of agent for episode: (reward/episode) -15139769.21/291
+Average reward of agent for episode: (reward/episode) -2107.14/291
+Average Q-value of agent for episode: (qValue/episode) 133.42/291
+Maximum reward: -1687.26 QValue: 54286.65
+Rewards: -14163262.25, -13498063.05, -13960307.37, -14777082.35, -14971072.81, -14977361.37, -14912426.35, -15035654.58, -15110339.58, -15234853.18, -15062789.07, -15166842.21, -15190264.73, -15102375.37, -15054043.04, -15117727.41, -15036436.69, -15247985.18, -14995876.94, -15025604.99, -15276781.86, -15226056.33, -15290739.44, -15085359.05, -15203267.26, -15164015.84, -15130382.89, -15137298.79, -15088047.63, -15139769.21
+Average rewards: -1829.88, -1687.26, -1750.73, -2045.84, -2083.66, -2098.26, -2081.00, -2099.07, -2097.20, -2126.29, -2129.62, -2143.42, -2144.91, -2159.02, -2122.98, -2133.77, -2110.97, -2132.59, -2098.79, -2116.28, -2146.22, -2136.09, -2116.66, -2141.29, -2115.68, -2142.42, -2142.20, -2148.66, -2128.67, -2107.14
+Average rewards(tot): -1037.75, -989.01, -1022.88, -1082.73, -1096.94, -1097.40, -1092.65, -1101.67, -1107.15, -1116.27, -1103.66, -1111.29, -1113.00, -1106.56, -1103.02, -1107.69, -1101.73, -1117.23, -1098.76, -1100.94, -1119.34, -1115.63, -1120.36, -1105.32, -1113.96, -1111.08, -1108.62, -1109.12, -1105.51, -1109.30
+qvalues: 54286.65, 18542.33, 11831.52, 5313.13, 2732.54, 1600.63, 1180.23, 888.42, 704.22, 537.32, 445.43, 384.98, 349.40, 311.97, 292.35, 271.03, 247.96, 228.17, 209.49, 205.25, 196.55, 186.13, 178.82, 170.37, 163.28, 157.65, 147.86, 142.73, 135.41, 133.42
+FailureR: 43.29, 41.38, 41.57, 47.08, 47.35, 47.70, 47.49, 47.52, 47.21, 47.50, 48.18, 48.15, 48.11, 48.75, 48.04, 48.09, 47.81, 47.61, 47.65, 47.98, 47.85, 47.77, 47.07, 48.38, 47.35, 48.14, 48.25, 48.38, 48.07, 47.35
+Succ#: 7740, 8000, 7974, 7223, 7185, 7138, 7166, 7163, 7205, 7165, 7073, 7076, 7082, 6995, 7091, 7085, 7123, 7150, 7145, 7100, 7118, 7128, 7224, 7045, 7186, 7078, 7063, 7045, 7088, 7185
+
+
+32:
+# of tasks (Edge/Cloud/Mobile): 13648(13213/435/0)
+# of failed tasks (Edge/Cloud/Mobile): 6542(6538/4/0)
+# of completed tasks (Edge/Cloud/Mobile): 7106(6675/431/0)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 6542
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 47.933763%
+# of critical task failed: 496
+average service time: 5245.643282 seconds. (on Edge: 5571.611655, on Cloud: 197.293183, on Mobile: NaN)
+average processing time: 5192.632509 seconds. (on Edge: 5525.423444, on Cloud: 38.619774, on Mobile: NaN)
+average network delay: 53.010772 seconds. (LAN delay: 46.188211, MAN delay: NaN, WAN delay: 158.673409)
+average server utilization Edge/Cloud/Mobile: 1.827464/0.000068/0.000000
+average cost: 0.0$
+Total Completed Jobs: 300
+Total Service Time: 1.6433029900373237E7
+Average service time of jobs: 54776.766334577456
+Total Energy: 38.24304928671001
+Total Energy Consumption: (Total/CPU/NW) 38.24304928671001/0.0/38.24304928671001
+Average Energy Consumption of jobs: 0.12747683095570003
+Total service time for successful tasks(numSucc/ServiceTime/Average):7106/3.7652235707758576E7/5298.654054004865
+Scenario finished at 17/05/2025 11:28:55. It took 25 Minutes 1 Seconds
+----------------------------------------------------------------------
+Total reward of agent for episode: (reward/episode) -15642516.40/291
+Average reward of agent for episode: (reward/episode) -2201.31/291
+Average Q-value of agent for episode: (qValue/episode) 223.92/291
+Maximum reward: -1941.30 QValue: 99677.93
+Rewards: -15250486.13, -14725911.18, -14933971.37, -14966224.60, -14746143.64, -15375502.38, -15728978.83, -15562144.45, -15602936.01, -15629880.74, -15738479.93, -15769122.98, -15787467.80, -15780333.76, -15736892.62, -15626213.91, -15677170.43, -15736484.95, -15804639.91, -15681705.39, -15610420.38, -15670944.01, -15681083.18, -15689995.75, -15785586.96, -15672770.97, -15622304.48, -15701226.09, -15676803.22, -15642516.40
+Average rewards: -2053.94, -1948.65, -1982.74, -1989.92, -1941.30, -2142.03, -2149.94, -2152.44, -2158.98, -2196.44, -2190.77, -2204.55, -2195.75, -2220.71, -2209.93, -2212.40, -2202.47, -2198.14, -2201.51, -2201.25, -2195.56, -2211.54, -2189.48, -2196.86, -2198.55, -2223.09, -2200.63, -2205.23, -2187.36, -2201.31
+Average rewards(tot): -1117.42, -1078.98, -1094.22, -1096.59, -1080.46, -1126.58, -1152.48, -1140.25, -1143.24, -1145.21, -1153.17, -1155.42, -1156.76, -1156.24, -1153.05, -1144.95, -1148.68, -1153.02, -1158.02, -1149.01, -1143.79, -1148.22, -1148.97, -1149.62, -1156.62, -1148.36, -1144.66, -1150.44, -1148.65, -1146.14
+qvalues: 99677.93, 39775.02, 30736.81, 15117.41, 8216.22, 6176.50, 4698.49, 3579.62, 2903.23, 2401.29, 1961.61, 1611.20, 1319.67, 1154.69, 1004.93, 896.18, 818.68, 735.90, 667.97, 594.22, 534.15, 477.90, 423.72, 371.49, 331.58, 300.10, 276.71, 256.97, 232.92, 223.92
+FailureR: 45.60, 44.63, 44.81, 44.89, 44.34, 47.41, 46.40, 47.03, 47.05, 47.86, 47.36, 47.59, 47.32, 47.93, 47.82, 48.25, 47.85, 47.55, 47.40, 47.80, 47.90, 48.08, 47.52, 47.67, 47.39, 48.34, 47.99, 47.83, 47.49, 47.93
+Succ#: 7425, 7557, 7532, 7521, 7596, 7178, 7316, 7230, 7227, 7116, 7184, 7153, 7190, 7106, 7121, 7063, 7118, 7159, 7179, 7124, 7110, 7086, 7162, 7142, 7180, 7050, 7099, 7120, 7167, 7106
+
+
+64:
+# of tasks (Edge/Cloud/Mobile): 13648(13056/592/0)
+# of failed tasks (Edge/Cloud/Mobile): 6415(6408/7/0)
+# of completed tasks (Edge/Cloud/Mobile): 7233(6648/585/0)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 6415
+# of failed tasks due to Energy constraint: 0
+percentage of failed tasks: 47.003224%
+# of critical task failed: 476
+average service time: 5064.115171 seconds. (on Edge: 5491.693903, on Cloud: 205.066608, on Mobile: NaN)
+average processing time: 5001.019302 seconds. (on Edge: 5437.716102, on Cloud: 38.352072, on Mobile: NaN)
+average network delay: 63.095869 seconds. (LAN delay: 53.977801, MAN delay: NaN, WAN delay: 166.714536)
+average server utilization Edge/Cloud/Mobile: 0.913446/0.000093/0.000000
+average cost: 0.0$
+Total Completed Jobs: 300
+Total Service Time: 1.625831428823453E7
+Average service time of jobs: 54194.38096078177
+Total Energy: 38.64509869224
+Total Energy Consumption: (Total/CPU/NW) 38.64509869224/0.0/38.64509869224
+Average Energy Consumption of jobs: 0.12881699564079999
+Total service time for successful tasks(numSucc/ServiceTime/Average):7233/3.708511745384525E7/5127.211040210874
+Scenario finished at 17/05/2025 17:17:01. It took 11 Minutes 35 Seconds
+----------------------------------------------------------------------
+Total reward of agent for episode: (reward/episode) -15767359.43/291
+Average reward of agent for episode: (reward/episode) -2179.92/291
+Average Q-value of agent for episode: (qValue/episode) 9541.20/291
+Maximum reward: -2102.00 QValue: 245202.50
+Rewards: -16047251.67, -15742550.28, -15603960.48, -15888610.42, -15516961.85, -15484907.57, -15832360.77, -15939571.49, -15836022.82, -15909571.97, -15778139.38, -15919169.54, -15935555.08, -15934189.25, -16058017.89, -16120929.15, -15941538.16, -16038354.46, -15939554.46, -15790285.62, -15788722.21, -15872864.68, -15843168.49, -15926260.70, -15662733.30, -15848183.49, -15792478.90, -15760220.99, -15842418.91, -15767359.43
+Average rewards: -2230.64, -2153.56, -2136.65, -2127.27, -2102.00, -2110.24, -2164.96, -2199.47, -2190.93, -2202.32, -2173.60, -2210.07, -2203.78, -2235.44, -2195.52, -2225.73, -2188.87, -2204.89, -2199.17, -2186.72, -2191.05, -2185.44, -2199.22, -2186.77, -2162.17, -2204.50, -2196.15, -2198.38, -2194.85, -2179.92
+Average rewards(tot): -1175.80, -1153.47, -1143.31, -1164.17, -1136.94, -1134.59, -1160.05, -1167.91, -1160.32, -1165.71, -1156.08, -1166.41, -1167.61, -1167.51, -1176.58, -1181.19, -1168.05, -1175.14, -1167.90, -1156.97, -1156.85, -1163.02, -1160.84, -1166.93, -1147.62, -1161.21, -1157.13, -1154.76, -1160.79, -1155.29
+qvalues: 245202.50, 77835.63, 54884.38, 41339.26, 33476.61, 27101.52, 24546.71, 22884.55, 20976.40, 19392.75, 17898.39, 16935.86, 15998.98, 15515.81, 15161.38, 14667.00, 14268.47, 13673.54, 13003.70, 12348.29, 12072.59, 11740.75, 11204.93, 10868.27, 10597.54, 10280.76, 10074.30, 9904.55, 9798.71, 9541.20
+FailureR: 47.29, 46.44, 46.49, 45.27, 45.91, 46.23, 46.42, 46.90, 47.04, 47.07, 46.81, 47.22, 47.02, 47.77, 46.41, 46.93, 46.64, 46.70, 46.89, 47.09, 47.20, 46.78, 47.22, 46.64, 46.92, 47.33, 47.31, 47.47, 47.11, 47.00
+Succ#: 7194, 7310, 7303, 7469, 7382, 7338, 7313, 7247, 7228, 7224, 7259, 7203, 7231, 7128, 7314, 7243, 7283, 7274, 7248, 7221, 7206, 7263, 7204, 7283, 7244, 7189, 7191, 7169, 7218, 7233
+
+
+
+# of tasks (Edge/Cloud/Mobile): 4468(3959/398/111)
+# of failed tasks (Edge/Cloud/Mobile): 51(46/4/1)
+# of completed tasks (Edge/Cloud/Mobile): 4417(3913/394/110)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 1(1/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 33
+# of failed tasks due to Energy constraint: 17
+percentage of failed tasks: 1.141450%
+# of critical task failed: 9
+average service time: 140.857917 seconds. (on Edge: 135.380879, on Cloud: 191.368919, on Mobile: 154.769886)
+average processing time: 77.356750 seconds. (on Edge: 79.064346, on Cloud: 38.785011, on Mobile: 154.769886)
+average network delay: 65.122975 seconds. (LAN delay: 56.316533, MAN delay: NaN, WAN delay: 152.583908)
+average server utilization Edge/Cloud/Mobile: 0.006195/0.000063/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 158931.9502945767
+Average service time of jobs: 1589.319502945767
+Total Energy: 5.193911639050221E7
+Total Energy Consumption: (Total/CPU/NW) 5.193911639050221E7/0.0/5.193911639050221E7
+Average Energy Consumption of jobs: 519391.1639050221
+Total service time for successful tasks(numSucc/ServiceTime/Average):4417/902654.0743329431/204.35908406903852
+Scenario finished at 18/05/2025 10:48:44. It took 51 Seconds
+----------------------------------------------------------------------
+
+
+
+# of tasks (Edge/Cloud/Mobile): 4468(0/3030/1438)
+# of failed tasks (Edge/Cloud/Mobile): 63(0/55/8)
+# of completed tasks (Edge/Cloud/Mobile): 4405(0/2975/1430)
+# of uncompleted tasks (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to vm capacity (Edge/Cloud/Mobile): 0(0/0/0)
+# of failed tasks due to Mobility/Network(WLAN/MAN/WAN): 0/0(0/0/0)
+# of failed tasks due to latency: 55
+# of failed tasks due to Energy constraint: 8
+percentage of failed tasks: 1.410027%
+# of critical task failed: 10
+average service time: 204.169345 seconds. (on Edge: NaN, on Cloud: 207.766024, on Mobile: 196.686743)
+average processing time: 99.604993 seconds. (on Edge: NaN, on Cloud: 52.940488, on Mobile: 196.686743)
+average network delay: 154.825537 seconds. (LAN delay: NaN, MAN delay: NaN, WAN delay: 154.825537)
+average server utilization Edge/Cloud/Mobile: 0.000000/0.000652/0.000000
+average cost: 0.0$
+Total Completed Jobs: 100
+Total Service Time: 237360.58981662983
+Average service time of jobs: 2373.605898166298
+Total Energy: 7.515494237249675E7
+Total Energy Consumption: (Total/CPU/NW) 7.515494237249675E7/0.0/7.515494237249675E7
+Average Energy Consumption of jobs: 751549.4237249675
+Total service time for successful tasks(numSucc/ServiceTime/Average):4405/1359971.9359750147/308.73369715664353
+Scenario finished at 18/05/2025 17:40:28. It took 1 Minute 57 Seconds
+----------------------------------------------------------------------
+
+
+
