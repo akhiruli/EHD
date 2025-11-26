@@ -14,7 +14,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class EnergyPrediction {
-    static private String prediction_file = "/Users/akhirul.islam/solar-energy-prediction/full_data/energy_predictions.csv";
+    static private String prediction_file = "energy_predictions.csv";
     List<Prediction> predictionList = new ArrayList<>();
     public static double MAX_ENERGY = 20;
     private String policy;
